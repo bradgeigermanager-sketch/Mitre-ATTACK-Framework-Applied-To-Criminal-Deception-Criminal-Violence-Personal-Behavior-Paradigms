@@ -1,0 +1,1 @@
+# Mitre-ATTACK-Framework-Applied-To-Criminal-Deception-Criminal-Violence-Personal-Behavior-Paradigms
