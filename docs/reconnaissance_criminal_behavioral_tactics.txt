@@ -1,0 +1,94 @@
+## Reconnaissance tactics reinterpreted as human behavioral tactics
+
+> Tactic: **Reconnaissance** — in human terms, this is all about *studying the target*: who they are, what they value, how they’re structured, and where the seams of vulnerability lie—before committing to overt manipulation or violence.
+
+---
+
+### Active Scanning (T1595)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Active Scanning (T1595)](https://attack.mitre.org/techniques/T1595/) | Systematically “probes” the social environment: casual conversations, small favors, and low‑stakes questions used to test boundaries, gauge reactions, and identify who is gullible, compliant, or isolated. The manipulator may deliberately “bump into” different social circles, ask innocuous questions about routines, policies, or relationships, and watch for who overshares or defers to perceived authority. | Conducts visible, sometimes intimidating “probing” of territory and people: driving repeatedly through a neighborhood, loitering near entrances, testing how close they can get before being challenged, or making minor disturbances to see how quickly security or bystanders respond. This actor is mapping response times, weak spots, and who looks likely to resist physically. |
+
+---
+
+### Gather Victim Identity Information (T1589)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Gather Victim Identity Information (T1589)](https://attack.mitre.org/techniques/T1589/) | Collects detailed personal information—names, roles, family members, social affiliations, beliefs, and insecurities—to craft highly tailored stories and personas. They may mirror the victim’s values, reference shared acquaintances, or exploit personal stressors (e.g., divorce, debt, career anxiety) to build trust and leverage. | Identifies who the key individuals are—leaders, enforcers, “troublemakers,” or witnesses—to prioritize targets for intimidation or neutralization. They may track who is most likely to call police, who has influence over others, and who can be used as leverage (e.g., threatening a loved one to control the primary target). |
+
+---
+
+### Gather Victim Network Information (T1590)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Gather Victim Network Information (T1590)](https://attack.mitre.org/techniques/T1590/) | Maps the victim’s social and professional network: who they trust, who they fear, who they depend on. The manipulator studies group dynamics to identify gatekeepers, influencers, and “weak links” who can be charmed, flattered, or triangulated against others. They exploit social bridges to gain introductions and legitimacy. | Studies the relational map to understand who will rally to the victim’s defense, who can be isolated, and where to apply force for maximum disruption. They may plan to separate the victim from protective peers, target the most influential person first, or stage violence where the victim’s allies are least able to intervene. |
+
+---
+
+### Gather Victim Org Information (T1591)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Gather Victim Org Information (T1591)](https://attack.mitre.org/techniques/T1591/) | Learns the organization’s structure, culture, and formal/informal rules: who signs off on what, which departments are overworked, which policies are rarely enforced. The manipulator uses this to impersonate authority, exploit bureaucratic blind spots, and present fraudulent requests that “fit” the organization’s normal patterns. | Identifies critical organizational nodes—security posts, control rooms, key offices, or choke points—to plan disruptive or violent actions. They may target symbolic spaces (executive offices, meeting rooms) or operational hubs (shipping bays, control centers) to maximize fear, halt operations, or send a message to leadership. |
+
+---
+
+### Gather Victim Host Information (T1592)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Gather Victim Host Information (T1592)](https://attack.mitre.org/techniques/T1592/) | Observes the victim’s immediate environment—home, office, routines, habits. Notes where they keep important items, how they organize their workspace, what they leave unattended, and how they respond to interruptions. This informs when and how to approach them, and what physical cues to mimic to appear “normal” in their space. | Conducts surveillance on the physical setting: entry points, blind spots, escape routes, and where the victim is most physically vulnerable (e.g., parking lot, stairwell, isolated office). The actor uses this to plan ambushes, forced confrontations, or property damage where the victim has minimal ability to flee or call for help. |
+
+---
+
+### Search Open Websites/Domains (T1593)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Search Open Websites/Domains (T1593)](https://attack.mitre.org/techniques/T1593/) | Systematically reviews all publicly visible information about the target—company websites, social media, public statements—to understand how the target wants to be seen. The manipulator then aligns their persona with that image (e.g., “I’m from a partner organization you list on your site”) to appear legitimate and non-threatening. | Uses publicly visible information to identify locations, schedules, and events where the target is exposed—public meetings, open houses, or predictable gatherings. The actor may choose high-visibility events to stage a disruptive or violent act that maximizes psychological impact and public fear. |
+
+---
+
+### Search Open Technical Databases (T1596)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Search Open Technical Databases (T1596)](https://attack.mitre.org/techniques/T1596/) | Exploits specialized or bureaucratic records (public filings, property records, professional registries) to uncover hidden leverage: financial stress, regulatory exposure, or professional vulnerabilities. The manipulator may reference obscure details to project expertise and authority, making the victim feel outmatched and compliant. | Uses technical or bureaucratic records to identify critical infrastructure, high‑value assets, or locations with hazardous materials. This informs where a violent act could cause maximum operational disruption or fear (e.g., targeting a facility known to store sensitive materials or critical equipment). |
+
+---
+
+### Search Open Repositories (T1597)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Search Open Repositories (T1597)](https://attack.mitre.org/techniques/T1597/) | Digs through “forgotten” or niche information sources—old newsletters, archived documents, community forums—to find personal or organizational details that can be repurposed as rapport-building anecdotes or subtle pressure points (“I saw you led that project that failed; must’ve been stressful.”). | Looks for overlooked information about building plans, security contracts, or past incidents that reveal patterns of weak security or slow response. The actor uses these historical traces to choose methods and locations where resistance is historically low or disorganized. |
+
+---
+
+### Search Victim-Owned Websites (T1594)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Search Victim-Owned Websites (T1594)](https://attack.mitre.org/techniques/T1594/) | Studies the victim’s own messaging—what they publish about themselves, their mission, and their values—to mirror their language and exploit their self-image. The manipulator may frame requests as “helping you achieve your stated goals” or “protecting your reputation,” making resistance feel inconsistent with the victim’s identity. | Uses the victim’s own public materials to identify what they care about most—flagship locations, signature programs, or prized assets—and then targets those for vandalism, disruption, or threats. The goal is to attack what the victim publicly claims to value, amplifying humiliation and psychological impact. |
+
+---
+
+### Phishing for Information (T1598)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Phishing for Information (T1598)](https://attack.mitre.org/techniques/T1598/) | Initiates low‑risk, plausibly innocent interactions—phone calls, messages, casual chats—under false pretenses to elicit sensitive details. They may pose as a surveyor, colleague, or service provider, using flattery, urgency, or concern to coax the victim into revealing routines, access procedures, or personal stressors. | Uses probing questions in a more overtly coercive context—interrogation‑style conversations, veiled threats, or aggressive questioning—to force information disclosure. The actor may imply consequences (“You don’t want trouble, do you?”) to pressure the victim into revealing where valuables are, who else is present, or how to bypass physical safeguards. |
+
+---
+
+### Search Closed Sources (T1599)
+
+| Technique Name | Category 1 (Deceptive Manipulator) Behavioral Tactic | Category 2 (Violent/Aggressive Actor) Behavioral Tactic |
+| --- | --- | --- |
+| [Search Closed Sources (T1599)](https://attack.mitre.org/techniques/T1599/) | Cultivates insiders or semi‑private channels—professional associations, private groups, or paid services—to access non‑public information. The manipulator may befriend staff, join restricted communities, or pay for specialized reports, all while presenting themselves as a legitimate stakeholder. | Taps into criminal networks, corrupt insiders, or underground markets to obtain non‑public intelligence about security routines, weapons availability, or target vulnerabilities. This actor is willing to trade favors, money, or threats to gain privileged information that makes a later violent act more effective and less risky for them. |
+
+---
+
