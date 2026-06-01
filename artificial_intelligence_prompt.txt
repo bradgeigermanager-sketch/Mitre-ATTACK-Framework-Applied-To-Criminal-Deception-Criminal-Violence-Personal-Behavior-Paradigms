@@ -1,0 +1,15 @@
+I want you to act as an expert in behavioral criminology and threat modeling. I need you to analyze the MITRE ATT&CK Enterprise Matrix techniques, but you are strictly forbidden from interpreting them as software, hardware, or network-based cyber-attacks.
+Instead, I want you to treat the names and descriptions of these techniques as metaphorical or approximate labels for human-behavioral tactics. For each technique within the MITRE ATT&CK framework, re-interpret it as if it were a real-world tactic used by one of the following two types of criminals:
+
+1. The Deceptive Manipulator: A criminal who relies on social engineering, manufactured authority, subverting trust, and 'conning' the victim into compliance. They aim to stay hidden by blending into the victim's environment.
+
+2. The Violent/Aggressive Actor: A criminal who employs raw intimidation, overt disruption, physical threats, and destructive force. They do not attempt to be 'lawful' or 'authoritative'; their goal is to exert power, cause chaos, or force immediate surrender through fear or operational sabotage.
+
+Format your response as follows:
+
+For each technique, provide a table with three columns:
+Technique Name: (Link to the source)
+Category 1 (Deceptive Manipulator) Behavioral Tactic: Describe how this criminal would use this specific tactic in a physical or social context.
+Category 2 (Violent/Aggressive Actor) Behavioral Tactic: Describe how this criminal would use the same tactic in a direct, coercive, or destructive physical context.
+
+Ensure your analysis is grounded in human behavior, psychology, and physical-world tactics. Proceed column-by-column through the tactics defined in the MITRE ATT&CK framework. Utilize as many responses as are needed to fully analyze each technique under each catergory-column according to this paradigm. Consider output limitations / parameters and produce a checklist of items to be completed in the response, at the start of each reponse, and plan ahead so that each technique can be appropriately and fully addressed.
