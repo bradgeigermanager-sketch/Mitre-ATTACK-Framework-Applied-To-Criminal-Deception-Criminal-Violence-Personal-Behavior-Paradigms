@@ -1,0 +1,166 @@
+# 📘 **DOCUMENTING THREATS OR HARM — FIELD PROTOCOL**
+
+---
+
+# 🟦 **1. Core Principles of Documentation**  
+These are the non‑negotiables.
+
+- **Be factual, not interpretive**  
+- **Record immediately after the incident**  
+- **Capture exact words and actions**  
+- **Preserve original evidence**  
+- **Avoid speculation or diagnosis**  
+- **Document your own observations only**  
+
+Documentation is strongest when it is **objective, time‑stamped, and specific**.
+
+---
+
+# 🟦 **2. What to Capture Verbatim**  
+These items should be written **exactly as spoken or displayed**, using quotation marks.
+
+- **Direct threats** (“I’m going to hurt you…”)  
+- **Implied threats** (“You’ll regret this…”)  
+- **Commands or coercive statements**  
+- **Demanded actions**  
+- **Exact phrases used during intimidation**  
+
+If the offender wrote something (text, email, note), **preserve the original** and document:
+
+- **Exact spelling, punctuation, and formatting**  
+
+This prevents disputes about meaning or tone.
+
+---
+
+# 🟦 **3. What to Capture Objectively**  
+These are **your observations**, not interpretations.
+
+- **Physical actions** (e.g., “He stepped toward me quickly…”)  
+- **Body language** (e.g., clenched fists, pacing)  
+- **Environmental context** (location, lighting, who was present)  
+- **Sequence of events**  
+- **Injuries or damage**  
+- **Victim emotional state** (without diagnosing)  
+
+Avoid subjective labels like “angry,” “crazy,” or “violent.”  
+Instead describe **observable behavior**.
+
+---
+
+# 🟦 **4. The Gold‑Standard Documentation Template**  
+This is the format used by protective‑intelligence teams, HR investigators, and law‑enforcement liaisons.
+
+---
+
+## **A. Date, Time, Location**  
+- Exact timestamp  
+- Exact location  
+- Who was present  
+
+---
+
+## **B. Incident Summary (Objective)**  
+A short, factual description of what happened.
+
+---
+
+## **C. Verbatim Statements**  
+Use quotation marks.  
+Include tone indicators only if directly observable (e.g., “shouted,” “whispered”).
+
+---
+
+## **D. Physical Actions**  
+Describe movements, gestures, proximity, and contact.
+
+---
+
+## **E. Environmental Details**  
+Lighting, noise, obstacles, exits, objects used or moved.
+
+---
+
+## **F. Evidence Collected**  
+- Photos  
+- Messages  
+- Voicemails  
+- Damaged property  
+- Witness statements  
+
+---
+
+## **G. Impact on Victim**  
+Describe **observable** effects, not interpretations.
+
+---
+
+## **H. Immediate Actions Taken**  
+Security notified, area evacuated, medical care sought, etc.
+
+---
+
+## **I. Follow‑Up Needed**  
+Security review, HR involvement, protective measures.
+
+---
+
+# 🟦 **5. What *Not* to Include**  
+These weaken the credibility of the documentation.
+
+- **Speculation about motives**  
+- **Psychological labels**  
+- **Assumptions about future behavior**  
+- **Character judgments**  
+- **Second‑hand information without attribution**  
+
+Stick to **what you saw, heard, or collected**.
+
+---
+
+# 🟦 **6. How to Store Documentation Safely**  
+- **Use secure, access‑controlled systems**  
+- **Preserve originals separately**  
+- **Avoid personal devices**  
+- **Maintain chain of custody**  
+
+Documentation is only useful if it’s **admissible and protected**.
+
+---
+
+# 🟦 **7. When to Escalate Documentation**  
+Escalation is warranted when:
+
+- **Threats become specific**  
+- **Violence or property damage occurs**  
+- **Victim expresses fear for safety**  
+- **Offender repeats threatening behavior**  
+- **Weapons are mentioned or displayed**  
+
+These are **high‑risk indicators** requiring immediate protective action.
+
+---
+
+# 🟦 **8. Example of a Properly Documented Threat**  
+(Not real, not graphic — purely instructional.)
+
+> **Date/Time:** May 28, 2026, 4:15 PM  
+> **Location:** Loading dock, Building C  
+> **Incident Summary:** Offender approached within 2 feet of victim and made threatening statements.  
+> **Verbatim Statement:** “If you walk away again, I’ll make sure you regret it.”  
+> **Physical Actions:** Offender stepped forward quickly, clenched fists, blocked exit path.  
+> **Environmental Details:** Area was isolated; no other staff present.  
+> **Impact:** Victim appeared visibly shaken, breathing rapidly.  
+> **Evidence:** Security camera footage requested; victim saved text messages from earlier.  
+> **Actions Taken:** Security notified; victim escorted to safe area.
+
+This format is **defensible, clear, and actionable**.
+
+---
+Useful in additional forms such as:
+  
+- A **fillable template**  
+- A **training module**  
+- A **checklist version**  
+- A **decision‑tree for escalation**  
+- A **documentation Standard Operating Procedure for the hybrid‑threat platform**
