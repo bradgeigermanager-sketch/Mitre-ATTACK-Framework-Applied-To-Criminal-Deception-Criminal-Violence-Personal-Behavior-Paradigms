@@ -1,0 +1,1795 @@
+# 🔷 **TACTIC: Resource Development**  
+In human‑behavioral terms, **Resource Development** represents the criminal preparing tools, relationships, and infrastructure before acting.  
+Think of it as:  
+- The con artist building a believable persona, props, and social scaffolding  
+- The violent actor gathering weapons, allies, or staging areas  
+
+Below are the reinterpretations.
+
+---
+
+# 📘 **Resource Development Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Acquire Infrastructure (T1583)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Acquire Infrastructure (T1583)](https://attack.mitre.org/techniques/T1583/)** | Builds a *social* or *logistical* base of operations: a rented office, a fake consulting brand, a prepaid phone, or a “legitimate‑looking” workspace that helps them appear trustworthy. They may also cultivate friendly third‑party contacts who can vouch for them. | Secures a physical base for staging violence: a safehouse, a garage for storing stolen goods, or a secluded location for planning intimidation. This may include acquiring vehicles, tools, or improvised weapons. |
+
+---
+
+## **Compromise Infrastructure (T1584)**  
+
+
+([https://attack.mitre.org/techniques/T1583/](https://attack.mitre.org/techniques/T1583/))** | Builds a *social* or *logistical* base of operations: a rented office, a fake consulting brand, a prepaid phone, or a “legitimate‑looking” workspace that helps them appear trustworthy. They may also cultivate friendly third‑party contacts who can vouch for them. | Secures a physical base for staging violence: a safehouse, a garage for storing stolen goods, or a secluded location for planning intimidation. This may include acquiring vehicles, tools, or improvised weapons. |
+
+---
+
+## **Compromise Infrastructure (T1584)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Compromise Infrastructure (T1584)](https://attack.mitre.org/techniques/T1584/)** | Gains access to someone else’s resources — borrowing an office, using another person’s phone, or piggybacking on a legitimate organization’s reputation. They exploit others’ credibility to mask their own identity. | Takes over physical spaces or tools through force or intimidation — stealing a vehicle, occupying a room, or coercing someone into providing their property for use in a planned attack. |
+
+---
+
+## **Develop Capabilities (T1587)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Develop Capabilities (T1587)](https://attack.mitre.org/techniques/T1587/)** | Practices persuasive scripts, rehearses false identities, and refines psychological manipulation techniques. They may study body language, mimic professional jargon, or craft forged documents to enhance credibility. | Trains physically or tactically: practicing intimidation postures, rehearsing forced entry, or preparing weapons. They may also condition themselves mentally for violence or desensitize themselves to causing harm. |
+
+---
+
+## **Obtain Capabilities (T1588)**  
+
+
+)]([https://attack.mitre.org/techniques/T1587/](https://attack.mitre.org/techniques/T1587/))** | Practices persuasive scripts, rehearses false identities, and refines psychological manipulation techniques. They may study body language, mimic professional jargon, or craft forged documents to enhance credibility. | Trains physically or tactically: practicing intimidation postures, rehearsing forced entry, or preparing weapons. They may also condition themselves mentally for violence or desensitize themselves to causing harm. |
+
+---
+
+## **Obtain Capabilities (T1588)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Obtain Capabilities (T1588)](https://attack.mitre.org/techniques/T1588/)** | Acquires props and tools for deception: fake IDs, forged credentials, business cards, uniforms, or scripts. They may also purchase access to private information or hire accomplices who can impersonate authority. | Obtains weapons, stolen vehicles, or tools for forced entry. May recruit muscle, gang members, or enforcers. This is the stage where they gather the means to inflict physical harm or destruction. |
+
+---
+
+## **Establish Accounts (T1585)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Establish Accounts (T1585)](https://attack.mitre.org/techniques/T1585/)** | Creates alternate identities — fake names, burner phones, social personas — to interact with victims while shielding their true identity. These accounts help them infiltrate social circles or appear as a legitimate authority. | Uses false identities to rent storage units, buy equipment anonymously, or move around without being tracked. These identities help them evade law enforcement while preparing for violent acts. |
+
+---
+
+## **Obfuscate Infrastructure (T1586)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Obfuscate Infrastructure (T1586)](https://attack.mitre.org/techniques/T1586/)** | Hides the origins of their operations: using intermediaries, forwarding addresses, or third‑party meeting locations. They ensure nothing traces back to them socially or professionally. | Conceals weapons, stolen goods, or staging areas. May use abandoned buildings, remote areas, or hidden compartments to store tools for violence. |
+
+---
+
+## **Stage Capabilities (T1608)**  
+
+
+ Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Obfuscate Infrastructure (T1586)](https://attack.mitre.org/techniques/T1586/)** | Hides the origins of their operations: using intermediaries, forwarding addresses, or third‑party meeting locations. They ensure nothing traces back to them socially or professionally. | Conceals weapons, stolen goods, or staging areas. May use abandoned buildings, remote areas, or hidden compartments to store tools for violence. |
+
+---
+
+## **Stage Capabilities (T1608)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Stage Capabilities (T1608)]([https://attack.mitre.org/techniques](https://attack.mitre.org/techniques)/T1608/)** | Prepares the con: sets up meeting spaces, plants misleading documents, rehearses emotional hooks, and arranges props that will be used to manipulate the victim. | Pre‑positions weapons, escape vehicles, or tools near the target. They may scout the location and place items in advance to ensure rapid execution of a violent act. |
+
+---
+
+
+# 🔷 **TACTIC: Initial Access**  
+In human‑behavioral terms, **Initial Access** represents the moment a criminal *enters* the victim’s world — socially, physically, or psychologically.
+
+For the **Deceptive Manipulator**, this means:  
+- Gaining trust  
+- Gaining proximity  
+- Gaining legitimacy  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Gaining physical entry  
+- Gaining control  
+- Gaining dominance  
+
+---
+
+# 📘 **Initial Access Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Drive‑by Compromise (T1189)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Drive‑by Compromise (T1189)](https://attack.mitre.org/techniques/T1189/)** | Creates a seemingly accidental encounter — “bumping into” the victim, offering help, or staging a chance meeting. The manipulator uses this moment to plant a psychological hook or begin rapport-building without raising suspicion. | Initiates sudden, opportunistic aggression: a surprise shove, a forced entry when a door is briefly open, or an ambush when the victim is distracted. The goal is to exploit a fleeting moment of vulnerability. |
+
+---
+
+## **Exploit Public‑Facing Application (T1190)**  
+
+
+romise (T1189)]([https://attack.mitre.org/techniques/T1189/](https://attack.mitre.org/techniques/T1189/))** | Creates a seemingly accidental encounter — “bumping into” the victim, offering help, or staging a chance meeting. The manipulator uses this moment to plant a psychological hook or begin rapport-building without raising suspicion. | Initiates sudden, opportunistic aggression: a surprise shove, a forced entry when a door is briefly open, or an ambush when the victim is distracted. The goal is to exploit a fleeting moment of vulnerability. |
+
+---
+
+## **Exploit Public‑Facing Application (T1190)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exploit Public‑Facing Application (T1190)](https://attack.mitre.org/techniques/T1190/)** | Exploits the victim’s *public persona* — their friendliness, customer‑service mindset, or desire to appear helpful. The manipulator uses polite requests, flattery, or authority cues to gain access to restricted spaces or information. | Takes advantage of publicly accessible entry points — lobbies, storefronts, open doors — to force their way in. They may push past staff, break through a weak barrier, or intimidate someone into letting them through. |
+
+---
+
+## **External Remote Services (T1133)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[External Remote Services (T1133)](https://attack.mitre.org/techniques/T1133/)** | Gains access to the victim *from a distance* — phone calls, messages, or intermediaries. They use impersonation or emotional manipulation to enter the victim’s life without being physically present. | Gains access to the victim’s environment through someone else — coercing a neighbor, threatening a delivery driver, or forcing a third party to open a door or reveal a location. |
+
+---
+
+## **Hardware Additions (T1200)**  
+
+
+ressive Actor |
+|---|---|---|
+| **[External Remote Services (T1133)](https://attack.mitre.org/techniques/T1133/)** | Gains access to the victim *from a distance* — phone calls, messages, or intermediaries. They use impersonation or emotional manipulation to enter the victim’s life without being physically present. | Gains access to the victim’s environment through someone else — coercing a neighbor, threatening a delivery driver, or forcing a third party to open a door or reveal a location. |
+
+---
+
+## **Hardware Additions (T1200)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Hardware Additions (T1200)]([https://attack.mitre.org/techniques/T1200](https://attack.mitre.org/techniques/T1200)/)** | Plants physical objects that support manipulation — a fake badge, a clipboard, a “forgotten” item used as a pretext to return, or a hidden recording device to gather leverage. | Plants physical tools for violence — hidden weapons, forced‑entry tools, or objects placed strategically to be used later in an attack. |
+
+---
+
+## **Phishing (T1566)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Phishing (T1566)](https://attack.mitre.org/techniques/T1566/)** | Initiates contact under false pretenses — posing as a coworker, authority figure, or service provider. Uses emotional triggers (urgency, fear, sympathy) to get the victim to comply or reveal information. | Uses direct intimidation to extract cooperation — aggressive questioning, threats, or coercive demands to force the victim to reveal access points, schedules, or vulnerabilities. |
+
+---
+
+## **Replication Through Removable Media (T1091)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Replication Through Removable Media (T1091)](https://attack.mitre.org/techniques/T1091/)** | Leaves behind objects designed to lure the victim — a “lost” USB drive equivalent such as a wallet, badge, or note — prompting the victim to initiate contact or reveal information. | Plants objects that escalate danger — a weapon placed to be found, a threatening note, or an object meant to provoke fear and destabilize the victim’s sense of safety. |
+
+---
+
+## **Supply Chain Compromise (T1195)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Supply Chain Compromise (T1195)](https://attack.mitre.org/techniques/T1195/)** | Infiltrates the victim’s life indirectly — befriending coworkers, service providers, or family members to gain trust by association. They exploit the victim’s reliance on others. | Targets the victim through intermediaries — threatening suppliers, intercepting deliveries, or coercing someone in the victim’s support network to provide access or compliance. |
+
+---
+
+## **Trusted Relationship (T1199)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Trusted Relationship (T1199)](https://attack.mitre.org/techniques/T1199/)** | Exploits an existing relationship — posing as a friend of a friend, a colleague’s referral, or a known community member. They weaponize trust to bypass suspicion. | Forces or coerces someone the victim trusts — a friend, partner, or coworker — to grant access or betray the victim under threat of harm. |
+
+---
+
+## **Valid Accounts (T1078)**  
+
+
+(T1078)]([https://attack.mitre.org/techniques/T1078/](https://attack.mitre.org/techniques/T1078/))** | Gains access by using legitimate credentials — borrowing someone’s authority, imitating a real employee, or using a real identity they’ve socially engineered. | Gains access by stealing or coercing access credentials — taking keys, forcing someone to unlock a door, or using threats to obtain entry codes. |
+
+---
+
+# 🔷 **TACTIC: Execution**  
+In human‑behavioral terms, **Execution** represents the moment the criminal *initiates the harmful behavior* — the con begins, or the violence starts.
+
+For the **Deceptive Manipulator**, this means:  
+- Deploying the lie  
+- Triggering the emotional hook  
+- Initiating the manipulation sequence  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Initiating physical force  
+- Beginning the intimidation  
+- Taking overt control  
+
+---
+
+# 📘 **Execution Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Command and Scripting Interpreter (T1059)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Command and Scripting Interpreter (T1059)](https://attack.mitre.org/techniques/T1059/)** | Uses rehearsed scripts, persuasive routines, or psychological “programs” to guide the victim’s behavior. This includes pre‑planned stories, emotional triggers, or authority‑based commands delivered smoothly and confidently. | Issues direct, forceful commands — “Sit down,” “Don’t move,” “Give it to me.” Uses tone, posture, and threat cues to override the victim’s autonomy and force compliance. |
+
+---
+
+## **Deploy Container (T1610)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Deploy Container (T1610)](https://attack.mitre.org/techniques/T1610/)** | Introduces a prepared “package” of deception — a binder of fake documents, a forged contract, a prop uniform, or a staged gift — to legitimize their false identity or narrative. | Brings out a pre‑positioned tool of violence — a concealed weapon, a blunt object, or a hidden device — at the moment they choose to escalate. |
+
+---
+
+## **Exploitation for Client Execution (T1203)**  
+
+
+ive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Deploy Container (T1610)](https://attack.mitre.org/techniques/T1610/)** | Introduces a prepared “package” of deception — a binder of fake documents, a forged contract, a prop uniform, or a staged gift — to legitimize their false identity or narrative. | Brings out a pre‑positioned tool of violence — a concealed weapon, a blunt object, or a hidden device — at the moment they choose to escalate. |
+
+---
+
+## **Exploitation for Client Execution (T1203)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exploitation for Client Execution (T1203)]([https://attack.mitre.org/techniques/T](https://attack.mitre.org/techniques/T)1203/)** | Takes advantage of a personal vulnerability — stress, loneliness, confusion, or desire for approval — to trigger compliance. They “execute” the manipulation by exploiting the victim’s emotional or cognitive weak point. | Exploits a physical vulnerability — a distracted moment, a blind spot, an unguarded position — to initiate violence or forceful control. |
+
+---
+
+## **Inter‑Process Communication (T1559)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Inter‑Process Communication (T1559)](https://attack.mitre.org/techniques/T1559/)** | Uses intermediaries — coworkers, family members, or social allies — to pass messages, influence decisions, or manipulate the victim indirectly. | Forces communication between people under duress — making someone call another person, deliver a threat, or relay instructions while under intimidation. |
+
+---
+
+## **Native API (T1106)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Native API (T1106)](https://attack.mitre.org/techniques/T1106/)** | Uses their natural social abilities — charm, empathy, confidence — to manipulate without props or scripts. This is the “pure con artist” mode. | Uses their natural physical presence — size, aggression, posture — to intimidate or dominate without needing weapons or tools. |
+
+---
+
+## **Scheduled Task/Job (T1053)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Scheduled Task/Job (T1053)](https://attack.mitre.org/techniques/T1053/)** | Executes manipulation at a pre‑planned moment — calling when the victim is stressed, visiting when they’re alone, or triggering a request when they’re most compliant. | Initiates violence at a chosen time — ambushing the victim during a predictable routine, attacking when security is lowest, or striking when escape is hardest. |
+
+---
+
+## **Shared Modules (T1129)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Shared Modules (T1129)](https://attack.mitre.org/techniques/T1129/)** | Shares manipulation techniques with accomplices — coordinated stories, synchronized lies, or rehearsed group roles to reinforce the deception. | Coordinates with accomplices to execute violence — flanking, blocking exits, or performing simultaneous acts to overwhelm the victim. |
+
+---
+
+## **Software Deployment Tools (T1072)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Software Deployment Tools (T1072)](https://attack.mitre.org/techniques/T1072/)** | Uses tools of persuasion — brochures, forged documents, fake credentials, or staged presentations — to deliver the manipulation payload. | Uses tools of force — crowbars, bats, improvised weapons — to initiate physical aggression or destruction. |
+
+---
+
+## **System Services (T1569)**  
+
+
+ Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Software Deployment Tools (T1072)](https://attack.mitre.org/techniques/T1072/)** | Uses tools of persuasion — brochures, forged documents, fake credentials, or staged presentations — to deliver the manipulation payload. | Uses tools of force — crowbars, bats, improvised weapons — to initiate physical aggression or destruction. |
+
+---
+
+## **System Services (T1569)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[System Services (T1569)]([https://attack.mitre.org/techniques](https://attack.mitre.org/techniques)/T1569/)** | Leverages institutional processes — customer service, HR, maintenance staff — to execute parts of the manipulation indirectly (“I need you to let me in; I’m with IT”). | Forces institutional processes to activate — pulling fire alarms, causing disruptions, or coercing staff to perform actions that enable the attack. |
+
+---
+
+## **User Execution (T1204)**  
+
+
+/T1569/)** | Leverages institutional processes — customer service, HR, maintenance staff — to execute parts of the manipulation indirectly (“I need you to let me in; I’m with IT”). | Forces institutional processes to activate — pulling fire alarms, causing disruptions, or coercing staff to perform actions that enable the attack. |
+
+---
+
+## **User Execution (T1204)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[User Execution (T1204)]([https://attack.m](https://attack.m)itre.org/techniques/T1204/)** | Gets the victim to *take the harmful action themselves* — signing a fraudulent form, granting access, or revealing information voluntarily. | Forces the victim to perform an action under threat — opening a safe, unlocking a door, or handing over valuables. |
+
+---
+
+## **Windows Management Instrumentation (T1047)**  
+
+
+itre.org/techniques/T1204/)** | Gets the victim to *take the harmful action themselves* — signing a fraudulent form, granting access, or revealing information voluntarily. | Forces the victim to perform an action under threat — opening a safe, unlocking a door, or handing over valuables. |
+
+---
+
+## **Windows Management Instrumentation (T1047)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Windows Management Instrumentation (T1047)]([https://attack.mitre.org/techniques/T](https://attack.mitre.org/techniques/T)1047/)** | Uses observation and subtle probing to “manage” the victim’s behavior — monitoring reactions, adjusting tone, and steering the interaction dynamically. | Monitors the victim’s movements and responses during a violent encounter to maintain control and adjust threats or force as needed. |
+
+---
+
+# 🔷 **TACTIC: Persistence**  
+In human‑behavioral terms, **Persistence** represents the criminal’s effort to *remain in the victim’s environment* — psychologically, socially, or physically — even after the victim might otherwise push them out.
+
+For the **Deceptive Manipulator**, persistence means:  
+- Staying relevant  
+- Staying trusted  
+- Staying embedded  
+
+For the **Violent/Aggressive Actor**, persistence means:  
+- Staying in control  
+- Staying feared  
+- Staying physically present or able to return  
+
+---
+
+# 📘 **Persistence Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Account Manipulation (T1098)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Account Manipulation (T1098)]([https://attack.mitre](https://attack.mitre).org/techniques/T1098/)** | Alters the victim’s perception of roles and relationships — redefining boundaries, shifting expectations, or subtly changing “who is allowed to do what.” They may convince the victim that certain access or privileges are “normal” or “authorized.” | Forces changes in access or control — taking keys, confiscating phones, or demanding control over who the victim can contact. They may impose new “rules” through intimidation. |
+
+---
+
+## **BITS Jobs (T1197)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[BITS Jobs (T1197)](https://attack.mitre.org/techniques/T1197/)** | Sets up recurring, low‑visibility interactions — periodic check‑ins, routine favors, or “just following up” messages — that keep them embedded without drawing attention. | Establishes recurring intimidation cycles — periodic drive‑bys, repeated confrontations, or scheduled demands that remind the victim of the threat. |
+
+---
+
+## **Boot or Logon Autostart Execution (T1547)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Boot or Logon Autostart Execution (T1547)](https://attack.mitre.org/techniques/T1547/)** | Inserts themselves into the victim’s *daily routines* — morning texts, habitual check‑ins, or predictable appearances that make their presence feel “normal.” | Forces themselves into the victim’s daily life — showing up at work, home, or routine locations to maintain pressure and control. |
+
+---
+
+## **Boot or Logon Initialization Scripts (T1037)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Boot or Logon Initialization Scripts (T1037)](https://attack.mitre.org/techniques/T1037/)** | Establishes predictable conversational scripts or rituals that the victim comes to expect — “Good morning,” “Checking in,” “Let me help with that.” These scripts reinforce dependency. | Forces the victim into repeated behavioral patterns — mandatory check‑ins, required updates, or coerced routines that reinforce dominance. |
+
+---
+
+## **Browser Extensions (T1176)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Browser Extensions (T1176)](https://attack.mitre.org/techniques/T1176/)** | Embeds subtle monitoring behaviors — asking probing questions, observing reactions, or inserting themselves into conversations to gather ongoing intelligence. | Conducts ongoing surveillance — watching the victim’s home, monitoring movements, or using physical proximity to maintain awareness and control. |
+
+---
+
+## **Compromise Account (T1078)**  
+
+
+ observing reactions, or inserting themselves into conversations to gather ongoing intelligence. | Conducts ongoing surveillance — watching the victim’s home, monitoring movements, or using physical proximity to maintain awareness and control. |
+
+---
+
+## **Compromise Account (T1078)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Compromise Account (T1078)]([https://attack.mitre.org/](https://attack.mitre.org/)techniques/T1078/)** | Gains long‑term access to the victim’s social or professional identity — impersonating them, speaking on their behalf, or using their reputation to maintain influence. | Takes control of the victim’s physical access — seizing keys, IDs, or personal items to ensure they can re‑enter spaces or maintain dominance. |
+
+---
+
+## **Create Account (T1136)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Create Account (T1136)](https://attack.mitre.org/techniques/T1136/)** | Creates new personas or social identities to stay connected to the victim even if one identity is rejected. | Creates new physical access channels — recruiting accomplices, using proxies, or establishing alternate ways to reach the victim. |
+
+---
+
+## **Event Triggered Execution (T1546)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Event Triggered Execution (T1546)](https://attack.mitre.org/techniques/T1546/)** | Activates manipulation when certain emotional or situational triggers occur — stress, loneliness, deadlines, or conflict. | Initiates violence or intimidation when specific events occur — victim arriving home, being alone, or entering a vulnerable location. |
+
+---
+
+## **External Remote Services (T1133)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[External Remote Services (T1133)](https://attack.mitre.org/techniques/T1133/)** | Maintains access through remote communication — texts, calls, or messages that keep them embedded even without physical presence. | Maintains control through indirect threats — calling repeatedly, sending warnings, or using third parties to deliver coercive messages. |
+
+---
+
+## **Hijack Execution Flow (T1574)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Hijack Execution Flow (T1574)](https://attack.mitre.org/techniques/T1574/)** | Redirects the victim’s decisions — subtly steering conversations, choices, or actions to benefit the manipulator. | Interrupts and redirects the victim’s physical actions — blocking movement, grabbing objects, or forcing a change in behavior through intimidation. |
+
+---
+
+## **Office Application Startup (T1137)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Office Application Startup (T1137)](https://attack.mitre.org/techniques/T1137/)** | Embeds themselves in the victim’s workplace routines — appearing helpful, becoming indispensable, or inserting themselves into daily workflows. | Inserts themselves physically into the victim’s workplace — showing up uninvited, waiting outside, or confronting them in professional settings. |
+
+---
+
+## **Pre‑OS Boot (T1542)**  
+
+
+Office Application Startup (T1137)]([https://attack.mitre.org/techniques/T1137/](https://attack.mitre.org/techniques/T1137/))** | Embeds themselves in the victim’s workplace routines — appearing helpful, becoming indispensable, or inserting themselves into daily workflows. | Inserts themselves physically into the victim’s workplace — showing up uninvited, waiting outside, or confronting them in professional settings. |
+
+---
+
+## **Pre‑OS Boot (T1542)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Pre‑OS Boot (T1542)]([https://attack.mitre.org/techniques/T](https://attack.mitre.org/techniques/T)1542/)** | Gains access *before* the victim is fully alert — contacting them early in the morning, catching them off‑guard, or initiating conversations before they can prepare. | Strikes when the victim is least prepared — early morning, late night, or moments of physical vulnerability. |
+
+---
+
+## **Scheduled Task/Job (T1053)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Scheduled Task/Job (T1053)](https://attack.mitre.org/techniques/T1053/)** | Maintains persistence through predictable, recurring interactions — weekly check‑ins, monthly “updates,” or routine favors. | Maintains intimidation through recurring confrontations — periodic threats, repeated visits, or scheduled demands. |
+
+---
+
+## **Valid Accounts (T1078)**  
+
+
+ (T1053)]([https://attack.mitre.org/techniques/T1053/](https://attack.mitre.org/techniques/T1053/))** | Maintains persistence through predictable, recurring interactions — weekly check‑ins, monthly “updates,” or routine favors. | Maintains intimidation through recurring confrontations — periodic threats, repeated visits, or scheduled demands. |
+
+---
+
+## **Valid Accounts (T1078)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Valid Accounts (T1078)](https://attack.mitre.org/techniques/T1078/)** | Uses legitimate social or professional roles to maintain access — “I’m your advisor,” “I’m your partner,” “I’m your consultant.” | Forces or steals legitimate access — taking badges, demanding entry codes, or coercing the victim to grant access repeatedly. |
+
+---
+
+# 🔷 **TACTIC: Privilege Escalation**  
+In human‑behavioral terms, **Privilege Escalation** represents the criminal’s effort to *increase their authority, influence, or control* over the victim or environment.
+
+For the **Deceptive Manipulator**, this means:  
+- Gaining more trust  
+- Gaining more decision‑making influence  
+- Gaining access to deeper personal or organizational layers  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Increasing physical dominance  
+- Increasing coercive leverage  
+- Gaining control over more spaces, people, or resources  
+
+---
+
+# 📘 **Privilege Escalation Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Access Token Manipulation (T1134)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Access Token Manipulation (T1134)](https://attack.mitre.org/techniques/T1134/)** | Reframes social roles to gain more authority — convincing the victim that the manipulator “should” be trusted with more responsibility, decisions, or access. They may impersonate higher‑status individuals or claim new privileges. | Forces a shift in power dynamics — taking control of keys, tools, or spaces, or coercing others to treat them as an authority figure through intimidation. |
+
+---
+
+## **Boot or Logon Autostart Execution (T1547)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Boot or Logon Autostart Execution (T1547)](https://attack.mitre.org/techniques/T1547/)** | Inserts themselves into increasingly sensitive routines — gaining access to private conversations, personal schedules, or decision‑making processes. | Forces themselves into critical moments — showing up at key times to assert dominance or disrupt the victim’s ability to act independently. |
+
+---
+
+## **Boot or Logon Initialization Scripts (T1037)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Boot or Logon Initialization Scripts (T1037)](https://attack.mitre.org/techniques/T1037/)** | Establishes habitual interactions that subtly increase influence — “Let me approve that,” “Run things by me first.” | Imposes mandatory check‑ins or forced routines that increase control and reduce the victim’s autonomy. |
+
+---
+
+## **Create or Modify System Process (T1543)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Create or Modify System Process (T1543)](https://attack.mitre.org/techniques/T1543/)** | Alters the “workflow” of the victim’s life — changing how decisions are made so that the manipulator becomes a required part of the process. | Forces changes to the victim’s physical routines — blocking exits, controlling movement, or dictating how tasks must be performed under threat. |
+
+---
+
+## **Event Triggered Execution (T1546)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Event Triggered Execution (T1546)](https://attack.mitre.org/techniques/T1546/)** | Uses emotional triggers to escalate influence — stepping in when the victim is stressed, overwhelmed, or vulnerable to gain more control. | Uses situational triggers to escalate violence — attacking when the victim is isolated, distracted, or physically compromised. |
+
+---
+
+## **Exploitation for Privilege Escalation (T1068)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exploitation for Privilege Escalation (T1068)](https://attack.mitre.org/techniques/T1068/)** | Exploits a personal vulnerability — guilt, insecurity, ambition — to gain deeper access or more influence. | Exploits a physical vulnerability — injury, fatigue, isolation — to increase dominance or escalate threats. |
+
+---
+
+## **Hijack Execution Flow (T1574)**  
+
+
+ (T1068)]([https://attack.mitre.org/techniques/T1068/](https://attack.mitre.org/techniques/T1068/))** | Exploits a personal vulnerability — guilt, insecurity, ambition — to gain deeper access or more influence. | Exploits a physical vulnerability — injury, fatigue, isolation — to increase dominance or escalate threats. |
+
+---
+
+## **Hijack Execution Flow (T1574)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Hijack Execution Flow (T1574)](https://attack.mitre.org/techniques/T1574/)** | Redirects decisions or conversations to benefit themselves — subtly taking over choices the victim would normally make. | Physically interrupts or redirects the victim’s actions — grabbing, blocking, or forcing compliance through direct interference. |
+
+---
+
+## **Process Injection (T1055)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Process Injection (T1055)](https://attack.mitre.org/techniques/T1055/)** | Inserts ideas, suggestions, or narratives into the victim’s thinking — making the victim believe the manipulator’s ideas are their own. | Forces themselves into the victim’s physical space or actions — pushing, restraining, or physically imposing their will. |
+
+---
+
+## **Scheduled Task/Job (T1053)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Scheduled Task/Job (T1053)](https://attack.mitre.org/techniques/T1053/)** | Uses recurring interactions to gradually increase influence — each meeting or call gives them more authority. | Uses recurring intimidation to escalate control — repeated confrontations that wear down resistance. |
+
+---
+
+## **Setuid and Setgid (T1548)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Setuid and Setgid (T1548)](https://attack.mitre.org/techniques/T1548/)** | Assumes a higher social role — pretending to be a supervisor, expert, or authority figure to gain more power. | Forces others to treat them as an authority — through threats, violence, or coercion. |
+
+---
+
+## **Valid Accounts (T1078)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Valid Accounts (T1078)](https://attack.mitre.org/techniques/T1078/)** | Gains access to higher‑status social roles or privileges by manipulating legitimate trust relationships. | Gains access to restricted areas or resources by stealing, coercing, or forcibly taking legitimate credentials. |
+
+---
+
+# 🔷 **TACTIC: Defense Evasion**  
+In human‑behavioral terms, **Defense Evasion** represents the criminal’s effort to *avoid being confronted, exposed, or stopped*.
+
+For the **Deceptive Manipulator**, this means:  
+- Avoiding suspicion  
+- Avoiding accountability  
+- Avoiding emotional or social detection  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Avoiding physical capture  
+- Avoiding resistance  
+- Avoiding escalation until they choose it  
+
+---
+
+# 📘 **Defense Evasion Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Abuse Elevation Control Mechanism (T1548)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Abuse Elevation Control Mechanism (T1548)](https://attack.mitre.org/techniques/T1548/)** | Uses social loopholes — “I’m just following policy,” “I’m authorized,” “They told me to do this” — to bypass scrutiny. They hide behind bureaucracy or authority. | Uses physical or situational leverage — blocking exits, exploiting blind spots, or using surprise — to avoid being stopped or challenged. |
+
+---
+
+## **Access Token Manipulation (T1134)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Access Token Manipulation (T1134)](https://attack.mitre.org/techniques/T1134/)** | Changes how others *perceive* their role — shifting blame, altering narratives, or reframing events to appear innocent. | Forces others to treat them differently — intimidating witnesses, coercing compliance, or manipulating who is allowed to intervene. |
+
+---
+
+## **Binary Padding (T1009)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Binary Padding (T1009)](https://attack.mitre.org/techniques/T1009/)** | Adds unnecessary details, stories, or emotional padding to obscure the truth and make lies harder to detect. | Adds layers of physical concealment — extra clothing, padding, or misdirection — to hide weapons or disguise intent. |
+
+---
+
+## **Clear Command History (T1070.003)**  
+
+
+([https://attack.mitre.org/techniques/T1009/](https://attack.mitre.org/techniques/T1009/))** | Adds unnecessary details, stories, or emotional padding to obscure the truth and make lies harder to detect. | Adds layers of physical concealment — extra clothing, padding, or misdirection — to hide weapons or disguise intent. |
+
+---
+
+## **Clear Command History (T1070.003)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Clear Command History (T1070.003)](`https://attack.mitre.org/techniques/T1070/003/` [(attack.mitre.org in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fattack.mitre.org%2Ftechniques%2FT1070%2F003%2F"))** | Erases traces of manipulation — deleting messages, denying conversations, or rewriting past events to avoid accountability. | Removes evidence — wiping fingerprints, discarding clothing, or destroying objects used in intimidation or violence. |
+
+---
+
+## **Clear Windows Event Logs (T1070.001)**  
+
+
+)** | Erases traces of manipulation — deleting messages, denying conversations, or rewriting past events to avoid accountability. | Removes evidence — wiping fingerprints, discarding clothing, or destroying objects used in intimidation or violence. |
+
+---
+
+## **Clear Windows Event Logs (T1070.001)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Clear Windows Event Logs (T1070.001) [(attack.mitre.org in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fattack.mitre.org%2Ftechniques%2FT1070%2F001%2F")** | Gaslights the victim — insisting events didn’t happen, minimizing harm, or reframing incidents to erase suspicion. | Eliminates signs of forced entry, violence, or surveillance to avoid detection by authorities or bystanders. |
+
+---
+
+## **Deobfuscate/Decode Files or Information (T1140)**  
+
+
+ the victim — insisting events didn’t happen, minimizing harm, or reframing incidents to erase suspicion. | Eliminates signs of forced entry, violence, or surveillance to avoid detection by authorities or bystanders. |
+
+---
+
+## **Deobfuscate/Decode Files or Information (T1140)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Deobfuscate/Decode Files or Information (T1140)]([https://attack.mitre.org/tech](https://attack.mitre.org/tech)niques/T1140/)** | Translates coded emotional cues — learning how the victim reacts, what they fear, and how to exploit their vulnerabilities. | Interprets the victim’s physical cues — fear, hesitation, fatigue — to adjust intimidation tactics and maintain control. |
+
+---
+
+## **Defense Evasion via Masquerading (T1036)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Masquerading (T1036)](https://attack.mitre.org/techniques/T1036/)** | Pretends to be someone trustworthy — a coworker, authority figure, or ally — to avoid suspicion. | Uses physical disguise or altered appearance to avoid recognition before or after violent acts. |
+
+---
+
+## **Disable Security Tools (T1562)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Disable Security Tools (T1562)](https://attack.mitre.org/techniques/T1562/)** | Undermines the victim’s support systems — isolating them from friends, discouraging them from seeking advice, or discrediting protective people. | Physically disables alarms, cameras, locks, or barriers to avoid detection or resistance. |
+
+---
+
+## **Hide Artifacts (T1564)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Hide Artifacts (T1564)](https://attack.mitre.org/techniques/T1564/)** | Hides evidence of manipulation — concealing motives, deleting messages, or masking emotional exploitation. | Hides tools, weapons, or stolen items to avoid discovery and maintain operational freedom. |
+
+---
+
+## **Impair Defenses (T1562.004)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Impair Defenses (T1562.004)](https://attack.mitre.org/techniques/T1562/004/)** | Weakens the victim’s ability to resist — undermining confidence, creating self‑doubt, or overwhelming them emotionally. | Weakens physical defenses — breaking locks, sabotaging lighting, or damaging barriers to make future violence easier. |
+
+---
+
+## **Indicator Removal (T1070)**  
+
+
+|
+| **Impair Defenses (T1562.004) [(attack.mitre.org in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fattack.mitre.org%2Ftechniques%2FT1562%2F004%2F")** | Weakens the victim’s ability to resist — undermining confidence, creating self‑doubt, or overwhelming them emotionally. | Weakens physical defenses — breaking locks, sabotaging lighting, or damaging barriers to make future violence easier. |
+
+---
+
+## **Indicator Removal (T1070)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Indicator Removal (T1070)](https://attack.mitre.org/techniques/T1070/)** | Removes signs of manipulation — deleting evidence, altering stories, or shifting blame to keep the victim confused. | Removes physical evidence — cleaning up scenes, disposing of tools, or coercing witnesses into silence. |
+
+---
+
+## **Obfuscated/Encrypted Information (T1027)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Obfuscated/Encrypted Information (T1027)](https://attack.mitre.org/techniques/T1027/)** | Speaks in vague, ambiguous, or coded ways to avoid being pinned down or held accountable. | Uses coded signals, gestures, or indirect communication with accomplices to coordinate without being detected. |
+
+---
+
+## **Process Injection (T1055)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Process Injection (T1055)](https://attack.mitre.org/techniques/T1055/)** | Inserts themselves into conversations or decisions where they don’t belong, subtly influencing outcomes. | Inserts themselves physically into spaces — blocking movement, stepping into personal space, or physically interrupting actions. |
+
+---
+
+## **Rootkit (T1014)**  
+
+
+ into conversations or decisions where they don’t belong, subtly influencing outcomes. | Inserts themselves physically into spaces — blocking movement, stepping into personal space, or physically interrupting actions. |
+
+---
+
+## **Rootkit (T1014)**  
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Rootkit (T1014)]([https://attack.mitre.org/techniques/T](https://attack.mitre.org/techniques/T)1014/)** | Embeds themselves deeply into the victim’s life while hiding their true motives — a “double life” persona. | Embeds themselves in the environment — hiding in blind spots, using concealed positions, or maintaining hidden access routes. |
+
+---
+
+## **Valid Accounts (T1078)**  
+
+
+
+
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Valid Accounts (T1078)](https://attack.mitre.org/techniques/T1078/)** | Uses legitimate trust relationships to avoid suspicion — “They know me,” “I’m supposed to be here.” | Uses stolen or coerced credentials to move freely without being challenged. |
+
+---
+
+# 🔷 **TACTIC: Credential Access**  
+In human‑behavioral terms, **Credential Access** represents the criminal’s effort to *obtain the means of deeper access* — whether emotional, social, or physical.
+
+For the **Deceptive Manipulator**, this means:  
+- Extracting secrets  
+- Extracting trust tokens  
+- Extracting access permissions  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Seizing keys  
+- Seizing codes  
+- Seizing physical control  
+
+---
+
+# 📘 **Credential Access Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Account Manipulation (T1098)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Account Manipulation (T1098)](https://attack.mitre.org/techniques/T1098/)** | Coaxes the victim into changing boundaries or permissions — “Just add me to your contacts,” “Let me handle your appointments,” “Give me access so I can help.” | Forces the victim to change access rules — demanding keys, forcing password changes, or coercing them to grant new privileges. |
+
+---
+
+## **Brute Force (T1110)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Brute Force (T1110)](https://attack.mitre.org/techniques/T1110/)** | Repeatedly pressures the victim with persistent questions, emotional appeals, or guilt until they reveal sensitive information. | Uses repeated physical or verbal intimidation to force the victim to reveal access codes, safe combinations, or hidden items. |
+
+---
+
+## **Credentials from Password Stores (T1555)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Credentials from Password Stores (T1555)](https://attack.mitre.org/techniques/T1555/)** | Gains access to the victim’s “stored trust” — journals, notes, planners, or personal documents that reveal routines, preferences, or vulnerabilities. | Searches the victim’s belongings — wallets, bags, drawers — to find keys, access cards, or written codes. |
+
+---
+
+## **Credentials from Web Browsers (T1555.003)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Credentials from Web Browsers (T1555.003)** | Observes the victim’s habits, preferences, and patterns — learning what they “auto‑trust” in daily life to exploit those routines. | Watches the victim’s routines to identify when they unlock doors, open safes, or access restricted areas. |
+
+---
+
+## **Exploitation for Credential Access (T1212)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exploitation for Credential Access (T1212)](https://attack.mitre.org/techniques/T1212/)** | Exploits emotional vulnerabilities — insecurity, loneliness, desire for approval — to extract sensitive information. | Exploits physical vulnerabilities — injury, fatigue, isolation — to force the victim to reveal access information. |
+
+---
+
+## **Forced Authentication (T1187)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Forced Authentication (T1187)](https://attack.mitre.org/techniques/T1187/)** | Manipulates the victim into confirming identity or granting access — “Just sign here,” “Approve this for me,” “Verify this quickly.” | Forces the victim to unlock doors, open safes, or authenticate access under threat. |
+
+---
+
+## **Input Capture (T1056)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Input Capture (T1056)](https://attack.mitre.org/techniques/T1056/)** | Observes the victim’s behavior — how they speak, decide, or react — to capture psychological “keys” that unlock influence. | Watches the victim’s physical actions — PIN entry, key usage, safe combinations — to replicate or steal access. |
+
+---
+
+## **Keylogging (T1056.001)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Keylogging (T1056.001)** | Pays close attention to the victim’s words, emotional cues, and repeated phrases to gather exploitable information. | Observes repeated physical actions — keypad entries, lock patterns — to memorize access sequences. |
+
+---
+
+## **Network Sniffing (T1040)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Network Sniffing (T1040)](https://attack.mitre.org/techniques/T1040/)** | Listens in on conversations, gossip, or social interactions to gather sensitive information indirectly. | Eavesdrops on conversations or monitors physical spaces to overhear access codes or plans. |
+
+---
+
+## **OS Credential Dumping (T1003)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[OS Credential Dumping (T1003)](https://attack.mitre.org/techniques/T1003/)** | Extracts deeply personal information — trauma, secrets, insecurities — to gain long‑term leverage. | Forces the victim to reveal deeply protected information through intimidation or coercion. |
+
+---
+
+## **Steal Application Access Tokens (T1528)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Steal Application Access Tokens (T1528)](https://attack.mitre.org/techniques/T1528/)** | Borrows or steals social credibility — using someone else’s reputation, name, or authority to gain access. | Steals physical access tokens — badges, keys, cards — to move freely in restricted spaces. |
+
+---
+
+## **Steal or Forge Authentication Materials (T1649)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Steal or Forge Authentication Materials (T1649)](https://attack.mitre.org/techniques/T1649/)** | Creates fake identities, forged documents, or fabricated stories to gain access to the victim’s inner circle. | Creates or steals physical credentials — fake badges, forged IDs, or stolen access cards. |
+
+---
+
+## **Two‑Factor Authentication Interception (T1111)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Two‑Factor Authentication Interception (T1111)](https://attack.mitre.org/techniques/T1111/)** | Intercepts the victim’s emotional “second factor” — trust, reassurance, or validation — to bypass their defenses. | Forces the victim to provide secondary access — backup keys, secondary codes, or additional authentication steps. |
+
+---
+
+# 🔷 **TACTIC: Discovery**  
+In human‑behavioral terms, **Discovery** represents the criminal’s effort to *learn the internal structure* of the victim’s world — socially, emotionally, or physically.
+
+For the **Deceptive Manipulator**, Discovery means:  
+- Mapping relationships  
+- Mapping emotional vulnerabilities  
+- Mapping decision‑making structures  
+
+For the **Violent/Aggressive Actor**, Discovery means:  
+- Mapping physical layout  
+- Mapping escape routes  
+- Mapping who can resist or intervene  
+
+---
+
+# 📘 **Discovery Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Account Discovery (T1087)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Account Discovery (T1087)](https://attack.mitre.org/techniques/T1087/)** | Identifies who holds influence, who is passive, who is isolated, and who can be exploited. They map the “social accounts” of the environment. | Identifies who has keys, who can call for help, who is physically strong, and who must be neutralized first. |
+
+---
+
+## **Application Window Discovery (T1010)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Application Window Discovery (T1010)](https://attack.mitre.org/techniques/T1010/)** | Observes what the victim is focused on — their priorities, stresses, and current tasks — to time manipulative requests. | Watches what the victim is doing physically — opening safes, accessing valuables — to plan when to strike. |
+
+---
+
+## **Browser Information Discovery (T1217)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Browser Information Discovery (T1217)](https://attack.mitre.org/techniques/T1217/)** | Learns the victim’s interests, habits, and preferences through conversation, observation, or subtle probing. | Observes routines and patterns — when the victim leaves, returns, or accesses restricted areas. |
+
+---
+
+## **Cloud Infrastructure Discovery (T1580)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Cloud Infrastructure Discovery (T1580)](https://attack.mitre.org/techniques/T1580/)** | Identifies the victim’s “support systems” — mentors, family, community groups — to understand who protects them. | Identifies external support structures — neighbors, security patrols, or nearby authorities — to plan around them. |
+
+---
+
+## **Cloud Service Dashboard Discovery (T1619)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Cloud Service Dashboard Discovery (T1619)](https://attack.mitre.org/techniques/T1619/)** | Studies how the victim organizes their life — schedules, priorities, responsibilities — to exploit weak points. | Studies how the environment is structured — entrances, exits, choke points — to plan control or escape. |
+
+---
+
+## **Cloud Storage Object Discovery (T1613)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Cloud Storage Object Discovery (T1613)](https://attack.mitre.org/techniques/T1613/)** | Identifies where the victim “stores” emotional or personal value — treasured items, secrets, or sentimental attachments. | Identifies where valuables, tools, or weapons are physically stored. |
+
+---
+
+## **Container and Resource Discovery (T1613)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Container and Resource Discovery (T1613)** | Identifies which people or groups the victim relies on for emotional or logistical support. | Identifies which rooms, vehicles, or objects can be used for control, escape, or violence. |
+
+---
+
+## **Domain Trust Discovery (T1482)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Domain Trust Discovery (T1482)](https://attack.mitre.org/techniques/T1482/)** | Maps trust relationships — who the victim listens to, who they obey, who they fear disappointing. | Maps alliances — who will intervene, who will resist, who will flee. |
+
+---
+
+## **File and Directory Discovery (T1083)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[File and Directory Discovery (T1083)](https://attack.mitre.org/techniques/T1083/)** | Looks through the victim’s environment — office, home, belongings — to learn priorities, habits, and vulnerabilities. | Searches physical spaces for valuables, weapons, or leverage items. |
+
+---
+
+## **Group Discovery (T1069)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Group Discovery (T1069)](https://attack.mitre.org/techniques/T1069/)** | Identifies social groups, cliques, and alliances to understand how to infiltrate or manipulate them. | Identifies groups that may resist or intervene — security teams, coworkers, family members. |
+
+---
+
+## **Network Service Discovery (T1046)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Network Service Discovery (T1046)](https://attack.mitre.org/techniques/T1046/)** | Identifies what “services” people provide — who handles scheduling, who handles approvals, who handles logistics — to exploit them. | Identifies who controls physical services — maintenance, security, deliveries — to exploit or coerce them. |
+
+---
+
+## **Network Share Discovery (T1135)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Network Share Discovery (T1135)](https://attack.mitre.org/techniques/T1135/)** | Learns what information is shared among the victim’s social circle — gossip, routines, vulnerabilities. | Learns what physical resources are shared — tools, vehicles, access points — to exploit them. |
+
+---
+
+## **Password Policy Discovery (T1201)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Password Policy Discovery (T1201)](https://attack.mitre.org/techniques/T1201/)** | Learns the victim’s boundaries — what they refuse to share, what they guard closely — to plan how to bypass those defenses. | Tests the victim’s physical boundaries — how far they can be pushed, how quickly they react, what they protect most fiercely. |
+
+---
+
+## **Permission Groups Discovery (T1069)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Permission Groups Discovery (T1069)** | Identifies who has authority in the victim’s life — supervisors, family leaders, social influencers. | Identifies who controls physical spaces — managers, guards, keyholders. |
+
+---
+
+## **Process Discovery (T1057)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Process Discovery (T1057)](https://attack.mitre.org/techniques/T1057/)** | Learns how the victim makes decisions — emotionally, logically, impulsively — to exploit their cognitive patterns. | Learns how the victim moves, reacts, and behaves physically to plan intimidation or control. |
+
+---
+
+## **Query Registry (T1012)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Query Registry (T1012)](https://attack.mitre.org/techniques/T1012/)** | Probes the victim’s personal history — past trauma, relationships, failures — to find leverage. | Probes the victim’s physical environment — drawers, cabinets, storage — to find tools or valuables. |
+
+---
+
+## **Remote System Discovery (T1018)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Remote System Discovery (T1018)](https://attack.mitre.org/techniques/T1018/)** | Learns about people connected to the victim but not physically present — distant family, remote coworkers — to exploit them later. | Identifies off‑site locations — secondary homes, workplaces — for future intimidation or surveillance. |
+
+---
+
+## **Security Software Discovery (T1518)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Security Software Discovery (T1518)](https://attack.mitre.org/techniques/T1518/)** | Identifies the victim’s emotional defenses — skepticism, assertiveness, boundaries — to plan how to bypass them. | Identifies physical defenses — cameras, locks, alarms — to plan how to disable or avoid them. |
+
+---
+
+## **System Information Discovery (T1082)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[System Information Discovery (T1082)](https://attack.mitre.org/techniques/T1082/)** | Learns the victim’s personality structure — strengths, weaknesses, stress points — to tailor manipulation. | Learns the victim’s physical condition — injuries, limitations, stamina — to tailor intimidation. |
+
+---
+
+## **System Network Configuration Discovery (T1016)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[System Network Configuration Discovery (T1016)](https://attack.mitre.org/techniques/T1016/)** | Maps how the victim connects to others — communication patterns, dependencies, alliances. | Maps how the victim moves through physical space — routes, routines, blind spots. |
+
+---
+
+## **System Owner/User Discovery (T1033)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[System Owner/User Discovery (T1033)](https://attack.mitre.org/techniques/T1033/)** | Identifies who “owns” decisions in the victim’s life — who they defer to, who they obey. | Identifies who controls physical spaces — supervisors, guards, keyholders. |
+
+---
+
+## **Virtualization/Sandbox Evasion (T1497)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Virtualization/Sandbox Evasion (T1497)](https://attack.mitre.org/techniques/T1497/)** | Tests whether the victim is “real” — emotionally available, gullible, or reactive — before committing to deeper manipulation. | Tests whether the environment is safe — checking for police presence, security, or witnesses before escalating. |
+
+---
+
+# 🔷 **TACTIC: Lateral Movement**
+
+In human‑behavioral terms, **Lateral Movement** represents the criminal’s effort to *expand their access* beyond the initial victim or entry point.
+
+For the **Deceptive Manipulator**, this means:  
+- Moving into new social circles  
+- Gaining influence over additional people  
+- Expanding trust relationships  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Moving into new physical spaces  
+- Expanding the zone of intimidation  
+- Gaining control over additional targets  
+
+---
+
+# 📘 **Lateral Movement Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Internal Spearphishing (T1534)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Internal Spearphishing (T1534)](https://attack.mitre.org/techniques/T1534/)** | Uses the victim’s identity or trust to approach new targets — “They said I should talk to you,” “I’m working with your colleague.” | Forces the victim to contact others on their behalf — making calls, opening doors, or luring additional targets into vulnerable positions. |
+
+---
+
+## **Lateral Tool Transfer (T1570)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Lateral Tool Transfer (T1570)](https://attack.mitre.org/techniques/T1570/)** | Shares manipulative scripts, props, or stories with accomplices to expand influence into new social spaces. | Moves weapons, tools, or stolen items into new areas to prepare for further intimidation or violence. |
+
+---
+
+## **Pass the Hash (T1550.002)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Pass the Hash (T1550.002)** | Uses a victim’s *reputation* or *social proof* to gain access to others — “They trust me, so you can too.” | Uses stolen physical items (keys, badges) to move into new restricted spaces. |
+
+---
+
+## **Pass the Ticket (T1550.003)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Pass the Ticket (T1550.003)** | Uses temporary trust tokens — favors, introductions, shared experiences — to infiltrate new groups. | Uses temporary access — propped‑open doors, distracted guards — to move deeper into a building or area. |
+
+---
+
+## **Remote Services (T1021)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Remote Services (T1021)](https://attack.mitre.org/techniques/T1021/)** | Expands influence through indirect communication — contacting friends, coworkers, or family members to widen the manipulation network. | Expands control by coercing others remotely — threatening phone calls, forced instructions, or intimidation from a distance. |
+
+---
+
+## **Replication Through Removable Media (T1091)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Replication Through Removable Media (T1091)](https://attack.mitre.org/techniques/T1091/)** | Plants objects or messages that spread influence — notes, gifts, or “accidentally” shared items that draw new people into the manipulator’s orbit. | Plants threatening objects or symbols in new locations to expand fear and signal dominance. |
+
+---
+
+## **Shared Modules (T1129)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Shared Modules (T1129)](https://attack.mitre.org/techniques/T1129/)** | Coordinates with accomplices using shared stories, roles, or personas to infiltrate multiple social groups simultaneously. | Coordinates with accomplices to expand physical control — surrounding areas, blocking exits, or covering multiple locations. |
+
+---
+
+## **SSH Hijacking (T1563.001)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **SSH Hijacking (T1563.001)** | Takes over an existing relationship — stepping into a conversation or role the victim previously held to gain access to new people. | Takes over a physical position — replacing a guard, intercepting someone en route, or occupying a strategic location. |
+
+---
+
+## **Use Alternate Authentication Material (T1550)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Use Alternate Authentication Material (T1550)](https://attack.mitre.org/techniques/T1550/)** | Uses alternative forms of trust — charm, shared identity, emotional leverage — to gain access to new individuals. | Uses alternative forms of control — improvised weapons, threats, or coercion — to move into new spaces. |
+
+---
+
+## **Windows Admin Shares (T1077)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Windows Admin Shares (T1077)](https://attack.mitre.org/techniques/T1077/)** | Gains access to private or sensitive areas of someone’s life — personal conversations, private groups, or intimate details. | Gains access to restricted physical spaces — offices, storage rooms, or locked areas — to expand control. |
+
+---
+
+## **Windows Remote Management (T1028)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Windows Remote Management (T1028)](https://attack.mitre.org/techniques/T1028/)** | Influences people from a distance — managing relationships, decisions, or conflicts remotely to expand reach. | Controls people or spaces from afar — issuing threats, directing accomplices, or orchestrating movement without being physically present. |
+
+---
+
+# 🔷 **TACTIC: Collection**
+
+In human‑behavioral terms, **Collection** represents the criminal’s effort to *gather the assets they need* — whether those assets are emotional, informational, or physical.
+
+For the **Deceptive Manipulator**, Collection means:  
+- Extracting secrets  
+- Extracting vulnerabilities  
+- Extracting commitments or concessions  
+
+For the **Violent/Aggressive Actor**, Collection means:  
+- Seizing valuables  
+- Seizing hostages or leverage  
+- Seizing physical control  
+
+---
+
+# 📘 **Collection Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Adversary‑in‑the‑Middle (T1557)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Adversary‑in‑the‑Middle (T1557)](https://attack.mitre.org/techniques/T1557/)** | Inserts themselves between people — intercepting messages, twisting conversations, or relaying information selectively to gain leverage. | Physically positions themselves between people or spaces — blocking exits, intercepting movement, or controlling who can reach whom. |
+
+---
+
+## **Archive Collected Data (T1560)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Archive Collected Data (T1560)](https://attack.mitre.org/techniques/T1560/)** | Stores emotional or personal information for later use — keeping notes, screenshots, or memories of vulnerabilities. | Stores stolen items, weapons, or evidence of intimidation for future leverage or threats. |
+
+---
+
+## **Audio Capture (T1123)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Audio Capture (T1123)](https://attack.mitre.org/techniques/T1123/)** | Listens closely to conversations, tone, and emotional cues to gather exploitable information. | Eavesdrops on conversations to identify plans, valuables, or opportunities for violence. |
+
+---
+
+## **Automated Collection (T1119)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Automated Collection (T1119)](https://attack.mitre.org/techniques/T1119/)** | Sets up routines that naturally extract information — repeated questions, predictable check‑ins, or emotional hooks. | Uses repeated intimidation cycles to gather valuables or compliance over time. |
+
+---
+
+## **Browser Session Hijacking (T1185)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Browser Session Hijacking (T1185)](https://attack.mitre.org/techniques/T1185/)** | Takes over ongoing conversations or relationships to gather information from people who trust the victim. | Takes over physical interactions — interrupting, grabbing, or forcing themselves into situations to seize control. |
+
+---
+
+## **Clipboard Data (T1115)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Clipboard Data (T1115)](https://attack.mitre.org/techniques/T1115/)** | Picks up on small details the victim “copies and pastes” in life — repeated stories, habits, or emotional patterns. | Observes repeated physical actions — where valuables are placed, how locks are opened, what routines are followed. |
+
+---
+
+## **Data from Local System (T1005)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data from Local System (T1005)](https://attack.mitre.org/techniques/T1005/)** | Gathers personal information directly from the victim — confessions, routines, preferences, insecurities. | Searches the victim’s immediate environment — pockets, bags, drawers — for valuables or leverage items. |
+
+---
+
+## **Data from Network Shared Drive (T1039)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data from Network Shared Drive (T1039)](https://attack.mitre.org/techniques/T1039/)** | Collects information shared among the victim’s social circle — gossip, group dynamics, shared vulnerabilities. | Takes items or information from shared physical spaces — communal storage, shared tools, or group resources. |
+
+---
+
+## **Data from Removable Media (T1025)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data from Removable Media (T1025)](https://attack.mitre.org/techniques/T1025/)** | Extracts information from objects the victim carries — notebooks, phones, personal items. | Steals or inspects physical items the victim carries — wallets, USB drives, keychains. |
+
+---
+
+## **Data Staged (T1074)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Staged (T1074)](https://attack.mitre.org/techniques/T1074/)** | Organizes collected emotional or personal information for future manipulation. | Gathers stolen items or tools in a staging area for later use or escape. |
+
+---
+
+## **Email Collection (T1114)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Email Collection (T1114)](https://attack.mitre.org/techniques/T1114/)** | Reads or probes into the victim’s communications — asking about messages, relationships, or conflicts. | Intercepts physical mail or messages to gather information or leverage. |
+
+---
+
+## **Input Capture (T1056)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Input Capture (T1056)](https://attack.mitre.org/techniques/T1056/)** | Watches how the victim reacts emotionally — capturing “inputs” like fear, guilt, or desire for approval. | Watches how the victim performs physical actions — entering codes, opening safes, accessing valuables. |
+
+---
+
+## **Keylogging (T1056.001)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Keylogging (T1056.001)** | Tracks repeated emotional patterns — what phrases work, what triggers compliance. | Tracks repeated physical patterns — keypad sequences, lock combinations, habitual movements. |
+
+---
+
+## **Screen Capture (T1113)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Screen Capture (T1113)](https://attack.mitre.org/techniques/T1113/)** | Observes the victim’s “mental screen” — what they focus on, what stresses them, what they value. | Observes the victim’s physical actions visually — watching over shoulders, monitoring movements. |
+
+---
+
+## **Video Capture (T1125)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Video Capture (T1125)](https://attack.mitre.org/techniques/T1125/)** | Watches body language, micro‑expressions, and emotional cues to gather deeper psychological insight. | Records or observes physical spaces to identify valuables, vulnerabilities, or escape routes. |
+
+---
+
+## **Clipboard Modification (T1115.001)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Clipboard Modification (T1115.001)** | Alters the victim’s “copied” beliefs — subtly changing their memories or interpretations of events. | Alters physical items — replacing keys, swapping objects, or planting misleading evidence. |
+
+---
+
+# 🔷 **TACTIC: Command and Control**
+
+In human‑behavioral terms, **Command and Control** represents the criminal’s effort to:
+
+- Establish a *communication channel*  
+- Maintain *ongoing influence*  
+- Direct the victim’s behavior over time  
+
+For the **Deceptive Manipulator**, this means:  
+- Creating emotional dependency  
+- Maintaining narrative dominance  
+- Ensuring the victim keeps responding  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Maintaining threat presence  
+- Directing movement or compliance  
+- Keeping the victim under control  
+
+---
+
+# 📘 **Command and Control Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Application Layer Protocol (T1071)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Application Layer Protocol (T1071)](https://attack.mitre.org/techniques/T1071/)** | Uses socially acceptable communication channels — friendly texts, casual conversations, “checking in” — to maintain influence without raising suspicion. | Uses direct, forceful communication — commands, threats, or warnings — to maintain control and ensure compliance. |
+
+---
+
+## **Communication Through Removable Media (T1092)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Communication Through Removable Media (T1092)](https://attack.mitre.org/techniques/T1092/)** | Leaves notes, gifts, or symbolic items that reinforce emotional influence or keep the victim thinking about them. | Leaves threatening objects or messages to maintain fear and signal continued presence. |
+
+---
+
+## **Data Encoding (T1132)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Encoding (T1132)](https://attack.mitre.org/techniques/T1132/)** | Speaks in coded emotional language — hints, implications, guilt‑trips — to manipulate without being explicit. | Uses coded gestures, signals, or indirect threats to coordinate with accomplices or intimidate the victim. |
+
+---
+
+## **Data Obfuscation (T1001)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Obfuscation (T1001)](https://attack.mitre.org/techniques/T1001/)** | Hides true intentions behind humor, vagueness, or layered stories to maintain control without detection. | Conceals threats behind ambiguous statements or indirect intimidation to keep the victim uncertain and compliant. |
+
+---
+
+## **Dynamic Resolution (T1568)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Dynamic Resolution (T1568)](https://attack.mitre.org/techniques/T1568/)** | Changes communication style depending on the victim’s mood — shifting from charm to guilt to pressure to maintain influence. | Changes tactics depending on the victim’s reactions — escalating or de‑escalating threats to maintain dominance. |
+
+---
+
+## **Encrypted Channel (T1573)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Encrypted Channel (T1573)](https://attack.mitre.org/techniques/T1573/)** | Uses private, intimate, or secretive communication to build exclusivity and emotional dependency. | Uses hidden communication channels — burner phones, coded signals — to coordinate intimidation or violence. |
+
+---
+
+## **Fallback Channels (T1008)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Fallback Channels (T1008)](https://attack.mitre.org/techniques/T1008/)** | Maintains multiple ways to reach the victim — alternate numbers, social accounts, mutual contacts — ensuring influence persists. | Maintains multiple ways to threaten or control — different routes, accomplices, or intimidation methods. |
+
+---
+
+## **Ingress Tool Transfer (T1105)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Ingress Tool Transfer (T1105)](https://attack.mitre.org/techniques/T1105/)** | Introduces new manipulative tools — emotional hooks, false documents, or persuasive scripts — to deepen control. | Brings in new tools of intimidation — weapons, restraints, or destructive items — to escalate control. |
+
+---
+
+## **Multi‑Hop Proxy (T1090.003)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Multi‑Hop Proxy (T1090.003)** | Communicates through intermediaries — mutual friends, coworkers — to influence the victim indirectly. | Uses accomplices to relay threats or instructions, distancing themselves from direct confrontation. |
+
+---
+
+## **Non‑Application Layer Protocol (T1095)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Non‑Application Layer Protocol (T1095)](https://attack.mitre.org/techniques/T1095/)** | Uses subtle, nonverbal cues — tone, posture, silence — to maintain psychological control. | Uses physical signals — gestures, movements, positioning — to maintain dominance or coordinate violence. |
+
+---
+
+## **Port Knocking (T1205)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Port Knocking (T1205)](https://attack.mitre.org/techniques/T1205/)** | Uses specific emotional triggers to “open up” the victim — compliments, guilt, shared trauma — to regain influence. | Uses specific intimidation triggers — banging, signaling, or sudden presence — to force compliance. |
+
+---
+
+## **Protocol Tunneling (T1572)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Protocol Tunneling (T1572)](https://attack.mitre.org/techniques/T1572/)** | Hides manipulation inside unrelated conversations — embedding requests inside jokes, favors, or casual talk. | Hides threats inside unrelated actions — a “friendly” visit that masks surveillance or intimidation. |
+
+---
+
+## **Remote Access Software (T1219)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Remote Access Software (T1219)](https://attack.mitre.org/techniques/T1219/)** | Maintains influence even when not physically present — emotional hooks, dependency, or constant messaging. | Maintains control from a distance — threatening calls, remote instructions, or directing accomplices. |
+
+---
+
+## **Web Service (T1102)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Web Service (T1102)](https://attack.mitre.org/techniques/T1102/)** | Uses public‑facing personas — social media, professional profiles — to maintain legitimacy and influence. | Uses public channels — graffiti, symbolic threats, public intimidation — to signal dominance. |
+
+---
+
+## **Standard Application Layer Protocol (T1071.001)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Standard Application Layer Protocol (T1071.001)** | Uses normal, everyday communication to hide manipulation — “just checking in,” “just asking a question.” | Uses normal‑looking interactions to hide coercion — a “casual” conversation masking a threat. |
+
+---
+
+# 🔷 **TACTIC: Exfiltration**
+
+In human‑behavioral terms, **Exfiltration** represents the criminal’s effort to *remove assets* — emotional, informational, or physical — from the victim’s environment.
+
+For the **Deceptive Manipulator**, this means:  
+- Quietly taking what they need  
+- Leaving with information or commitments  
+- Extracting value without triggering alarm  
+
+For the **Violent/Aggressive Actor**, this means:  
+- Taking valuables  
+- Taking people  
+- Taking control of escape routes or territory  
+
+---
+
+# 📘 **Exfiltration Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Automated Exfiltration (T1020)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Automated Exfiltration (T1020)](https://attack.mitre.org/techniques/T1020/)** | Sets up routines that continually extract emotional or informational value — repeated questions, ongoing favors, or subtle manipulation loops. | Uses repeated intimidation cycles to continually extract valuables, compliance, or resources. |
+
+---
+
+## **Data Compressed (T1002)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Compressed (T1002)](https://attack.mitre.org/techniques/T1002/)** | Condenses the victim’s disclosures into simplified leverage — turning long stories into exploitable “pressure points.” | Forces the victim to quickly hand over valuables or information in a condensed, high‑pressure exchange. |
+
+---
+
+## **Data Encrypted (T1022)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Encrypted (T1022)](https://attack.mitre.org/techniques/T1022/)** | Hides the extracted information behind coded language or secrecy to avoid detection by others. | Locks away stolen items or hostages in secure locations to prevent recovery. |
+
+---
+
+## **Data Transfer Size Limits (T1030)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Transfer Size Limits (T1030)](https://attack.mitre.org/techniques/T1030/)** | Extracts information in small, subtle increments to avoid raising suspicion — “just one more detail,” “just a quick question.” | Takes items or leverage in small amounts to avoid immediate detection — small thefts, incremental intimidation. |
+
+---
+
+## **Exfiltration Over Alternative Protocol (T1048)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exfiltration Over Alternative Protocol (T1048)](https://attack.mitre.org/techniques/T1048/)** | Uses unexpected emotional channels — humor, sympathy, shared trauma — to extract sensitive information. | Uses unexpected physical methods — side exits, hidden compartments — to remove stolen items or people. |
+
+---
+
+## **Exfiltration Over C2 Channel (T1041)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exfiltration Over C2 Channel (T1041)](https://attack.mitre.org/techniques/T1041/)** | Extracts information through established emotional or social channels — the same ones used for manipulation. | Removes valuables or leverage through the same routes used for intimidation or control. |
+
+---
+
+## **Exfiltration Over Other Network Medium (T1011)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exfiltration Over Other Network Medium (T1011)](https://attack.mitre.org/techniques/T1011/)** | Uses indirect channels — mutual friends, coworkers — to extract information without direct involvement. | Uses accomplices or third parties to move stolen items or hostages. |
+
+---
+
+## **Exfiltration Over Physical Medium (T1052)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exfiltration Over Physical Medium (T1052)](https://attack.mitre.org/techniques/T1052/)** | Physically removes documents, notes, or personal items that contain emotional or informational value. | Physically removes valuables, tools, or people from the environment. |
+
+---
+
+## **Exfiltration Over Web Service (T1567)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exfiltration Over Web Service (T1567)](https://attack.mitre.org/techniques/T1567/)** | Extracts information through public‑facing channels — social media, public conversations, or online personas. | Uses public spaces or crowds to move stolen items or escape detection. |
+
+---
+
+## **Scheduled Transfer (T1029)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Scheduled Transfer (T1029)](https://attack.mitre.org/techniques/T1029/)** | Extracts information at predictable intervals — weekly check‑ins, recurring emotional conversations. | Conducts repeated thefts or intimidation cycles on a schedule to maintain control. |
+
+---
+
+## **Transfer Data to Cloud Account (T1537)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Transfer Data to Cloud Account (T1537)](https://attack.mitre.org/techniques/T1537/)** | Moves sensitive information into a “safe emotional vault” — storing secrets for future leverage. | Moves stolen items or hostages to a secure off‑site location. |
+
+---
+
+## **Exfiltration to Code Repository (T1602)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Exfiltration to Code Repository (T1602)](https://attack.mitre.org/techniques/T1602/)** | Stores collected emotional or personal data in organized formats — journals, notes, files — for future manipulation. | Stores stolen items or weapons in organized caches for future use. |
+
+---
+
+# 🔷 **TACTIC: Impact**
+
+In human‑behavioral terms, **Impact** represents the criminal’s effort to *cause lasting harm*, *alter the victim’s environment*, or *assert final dominance*.
+
+For the **Deceptive Manipulator**, Impact means:  
+- Damaging relationships  
+- Damaging reputation  
+- Damaging emotional stability  
+
+For the **Violent/Aggressive Actor**, Impact means:  
+- Damaging property  
+- Damaging physical safety  
+- Damaging the victim’s ability to resist  
+
+---
+
+# 📘 **Impact Techniques (Human Behavioral Interpretation)**
+
+---
+
+## **Account Access Removal (T1531)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Account Access Removal (T1531)](https://attack.mitre.org/techniques/T1531/)** | Cuts the victim off from social or emotional support — isolating them from friends, coworkers, or allies. | Physically removes access — taking keys, locking doors, or blocking exits to trap or isolate the victim. |
+
+---
+
+## **Data Destruction (T1485)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Destruction (T1485)](https://attack.mitre.org/techniques/T1485/)** | Destroys the victim’s emotional or reputational assets — deleting messages, sabotaging relationships, or ruining trust. | Destroys physical property — smashing items, vandalizing spaces, or eliminating evidence. |
+
+---
+
+## **Data Encrypted for Impact (T1486)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Encrypted for Impact (T1486)](https://attack.mitre.org/techniques/T1486/)** | Withholds emotional or informational resources — giving the victim the “silent treatment,” withholding closure, or locking away shared information. | Locks away valuables, tools, or people to prevent the victim from accessing them. |
+
+---
+
+## **Data Manipulation (T1565)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Data Manipulation (T1565)](https://attack.mitre.org/techniques/T1565/)** | Alters the victim’s perception of reality — gaslighting, rewriting events, or distorting memories. | Alters the physical environment — moving objects, staging scenes, or planting misleading evidence. |
+
+---
+
+## **Defacement (T1491)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Defacement (T1491)](https://attack.mitre.org/techniques/T1491/)** | Damages the victim’s reputation — spreading rumors, embarrassing them publicly, or sabotaging their image. | Damages physical property — graffiti, vandalism, or visible destruction to send a message. |
+
+---
+
+## **Disk Wipe (T1561)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Disk Wipe (T1561)](https://attack.mitre.org/techniques/T1561/)** | Erases shared history — deleting messages, removing evidence of the relationship, or destroying sentimental items. | Completely destroys physical items — burning documents, smashing devices, or wiping surfaces to eliminate traces. |
+
+---
+
+## **Endpoint Denial of Service (T1499)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Endpoint Denial of Service (T1499)](https://attack.mitre.org/techniques/T1499/)** | Overwhelms the victim emotionally — constant messaging, guilt, or pressure until they shut down. | Overwhelms the victim physically — blocking movement, restraining them, or exhausting them through intimidation. |
+
+---
+
+## **Inhibit System Recovery (T1490)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Inhibit System Recovery (T1490)](https://attack.mitre.org/techniques/T1490/)** | Prevents the victim from healing — sabotaging support systems, undermining confidence, or reigniting trauma. | Prevents physical recovery — destroying medical supplies, damaging escape routes, or injuring the victim. |
+
+---
+
+## **Network Denial of Service (T1498)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Network Denial of Service (T1498)](https://attack.mitre.org/techniques/T1498/)** | Cuts off the victim’s communication channels — blocking them, isolating them, or overwhelming their social network. | Cuts off physical communication — severing phone lines, blocking signals, or preventing calls for help. |
+
+---
+
+## **Resource Hijacking (T1496)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Resource Hijacking (T1496)](https://attack.mitre.org/techniques/T1496/)** | Drains the victim’s emotional or financial resources — constant demands, guilt‑based requests, or manipulation. | Steals or commandeers physical resources — vehicles, tools, money, or supplies. |
+
+---
+
+## **Service Stop (T1489)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[Service Stop (T1489)](https://attack.mitre.org/techniques/T1489/)** | Interrupts the victim’s routines — sabotaging plans, disrupting work, or causing emotional instability. | Interrupts physical systems — shutting off power, disabling equipment, or blocking essential services. |
+
+---
+
+## **System Shutdown/Reboot (T1529)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **[System Shutdown/Reboot (T1529)](https://attack.mitre.org/techniques/T1529/)** | Forces emotional collapse — overwhelming the victim until they “shut down” or withdraw. | Forces physical collapse — knocking the victim down, restraining them, or causing exhaustion. |
+
+---
+
+## **Data Staged for Impact (T1074.001)**  
+| Technique | Deceptive Manipulator | Violent/Aggressive Actor |
+|---|---|---|
+| **Data Staged for Impact (T1074.001)** | Prepares damaging information — screenshots, secrets, or stories — to release at a strategic moment. | Prepares physical destruction — staging tools, positioning objects, or setting up an ambush. |
+
+---
