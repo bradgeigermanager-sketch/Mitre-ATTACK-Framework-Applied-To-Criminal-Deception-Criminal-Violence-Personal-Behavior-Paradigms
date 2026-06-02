@@ -1,0 +1,576 @@
+# 📘 **DETECTION INDICATORS FOR BEHAVIORAL TACTICS**  
+## **Installment 1 — Reconnaissance, Resource Development, Initial Access**
+
+---
+
+# 🟦 **1. Reconnaissance — Detection Indicators**  
+*The offender is studying the target.*
+
+
+
+
+
+### **Behavioral Red Flags**  
+- Unusual curiosity about personal details  
+- Excessive small talk designed to probe  
+- Attempts to map relationships (“Who do you live with?”)  
+- Repeated “coincidental” encounters  
+- Monitoring social media activity closely  
+
+### **Environmental Indicators**  
+- Unknown individuals loitering near home/work  
+- Vehicles repeatedly passing or parking nearby  
+- Someone watching entrances/exits  
+- Sudden interest in building layout or schedules  
+
+### **Victim‑State Indicators**  
+- Feeling “studied” or observed  
+- Noticing repeated questions from the same person  
+- Feeling like someone is “fishing” for information  
+
+### **Escalation Markers**  
+- Probing becomes more targeted  
+- Attempts to isolate the victim for deeper questioning  
+- Offender begins testing boundaries (emotional or physical)  
+
+### **Cross‑Tactic Correlation Signals**  
+- Recon + Resource Development → **pre‑operation staging**  
+- Recon + Initial Access → **approach phase**  
+- Recon + Discovery → **deep mapping underway**  
+
+---
+
+# 🟦 **2. Resource Development — Detection Indicators**  
+*The offender is building tools, identities, or infrastructure.*
+
+
+
+
+
+### **Behavioral Red Flags**  
+- Sudden creation of new identities or accounts  
+- Practiced or rehearsed stories  
+- Borrowing legitimacy (“I work with…”)  
+- Gathering props (documents, uniforms, tools)  
+
+### **Environmental Indicators**  
+- Unknown individuals renting storage units or short‑term spaces  
+- Acquisition of tools with no legitimate purpose  
+- Use of intermediaries to obtain resources  
+
+### **Victim‑State Indicators**  
+- Feeling like someone is “preparing” for something  
+- Noticing inconsistencies in the offender’s identity  
+- Seeing props or documents that don’t match their story  
+
+### **Escalation Markers**  
+- Offender begins staging items near victim  
+- Fake identities become more elaborate  
+- Tools or weapons appear in proximity  
+
+### **Cross‑Tactic Correlation Signals**  
+- Resource Dev + Initial Access → **operation launch imminent**  
+- Resource Dev + Defense Evasion → **concealment infrastructure**  
+- Resource Dev + Impact → **planned sabotage**  
+
+---
+
+# 🟦 **3. Initial Access — Detection Indicators**  
+*The offender gains their first foothold.*
+
+
+
+
+
+### **Behavioral Red Flags**  
+- Sudden friendliness from a stranger  
+- False emergencies or urgent requests  
+- Attempts to exploit trust or authority  
+- Coercive questioning  
+- “Accidental” encounters that feel staged  
+
+### **Environmental Indicators**  
+- Forced entry signs  
+- Items planted near entrances  
+- Unknown individuals entering restricted areas  
+- Tailgating into secure spaces  
+
+### **Victim‑State Indicators**  
+- Feeling pressured to comply  
+- Feeling manipulated or guilt‑tripped  
+- Feeling like the encounter was not random  
+
+### **Escalation Markers**  
+- Offender attempts to move deeper into victim’s life or space  
+- Requests escalate from small to sensitive  
+- Offender tests compliance (“Can you do me a quick favor?”)  
+
+### **Cross‑Tactic Correlation Signals**  
+- Initial Access + Persistence → **embedding phase**  
+- Initial Access + Privilege Escalation → **control‑building**  
+- Initial Access + Lateral Movement → **expansion phase**  
+
+---
+
+
+
+# 📘 **DETECTION INDICATORS FOR BEHAVIORAL TACTICS**  
+## **Installment 2 — Persistence, Privilege Escalation, Defense Evasion**
+
+---
+
+# 🟦 **4. Persistence — Detection Indicators**  
+*The offender is maintaining their foothold in the victim’s world.*
+
+---
+
+### **Behavioral Red Flags**  
+- Offender inserts themselves into daily routines  
+- Repeated “check‑ins” that feel obligatory  
+- Attempts to normalize constant presence  
+- Sudden interest in controlling schedules or habits  
+- Offender reacts negatively when access is limited  
+
+---
+
+### **Environmental Indicators**  
+- Offender appears in places they shouldn’t logically be  
+- Items belonging to offender appear in victim’s space  
+- Signs of monitoring (notes, cameras, planted objects)  
+- Repeated visits without clear purpose  
+
+---
+
+### **Victim‑State Indicators**  
+- Feeling watched or constantly evaluated  
+- Feeling obligated to respond or comply  
+- Feeling like the offender is “always around”  
+- Difficulty setting boundaries  
+
+---
+
+### **Escalation Markers**  
+- Offender becomes possessive of victim’s time  
+- Attempts to control who victim interacts with  
+- Offender becomes hostile when access is denied  
+- Monitoring becomes more explicit  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Persistence + Privilege Escalation → **control consolidation**  
+- Persistence + Defense Evasion → **covert embedding**  
+- Persistence + Collection → **long‑term exploitation cycle**  
+
+---
+
+# 🟦 **5. Privilege Escalation — Detection Indicators**  
+*The offender is increasing their authority, influence, or control.*
+
+---
+
+### **Behavioral Red Flags**  
+- Offender begins making decisions for the victim  
+- Offender demands access to sensitive areas or information  
+- Sudden shift from friendly to authoritative tone  
+- Offender reframes relationship roles (“You owe me…”)  
+- Increasingly intrusive questioning  
+
+---
+
+### **Environmental Indicators**  
+- Offender gains access to restricted spaces  
+- Victim’s belongings are moved or searched  
+- Offender appears in higher‑risk or private areas  
+- Signs of forced access (doors, drawers, devices)  
+
+---
+
+### **Victim‑State Indicators**  
+- Feeling pressured to give more access  
+- Feeling like the offender is “taking over”  
+- Feeling coerced into decisions  
+- Feeling like boundaries are being overridden  
+
+---
+
+### **Escalation Markers**  
+- Offender demands exclusive access  
+- Offender uses guilt, threats, or manipulation to gain authority  
+- Offender begins controlling finances, movement, or communication  
+- Offender tests compliance with increasingly bold requests  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Privilege Escalation + Credential Access → **deep infiltration**  
+- Privilege Escalation + Lateral Movement → **network expansion**  
+- Privilege Escalation + Impact → **pre‑harm dominance**  
+
+---
+
+# 🟦 **6. Defense Evasion — Detection Indicators**  
+*The offender is avoiding detection, accountability, or confrontation.*
+
+---
+
+### **Behavioral Red Flags**  
+- Offender lies about whereabouts or actions  
+- Offender deletes messages or denies conversations  
+- Offender uses vague, coded, or evasive language  
+- Offender shifts blame or gaslights victim  
+- Offender avoids witnesses or documentation  
+
+---
+
+### **Environmental Indicators**  
+- Missing or altered physical evidence  
+- Disabled cameras, locks, or alarms  
+- Signs of tampering with victim’s belongings  
+- Hidden items (weapons, notes, tools) discovered  
+
+---
+
+### **Victim‑State Indicators**  
+- Feeling confused about events  
+- Feeling like reality is being rewritten  
+- Feeling uncertain about their own memory  
+- Feeling isolated from support systems  
+
+---
+
+### **Escalation Markers**  
+- Offender becomes more secretive  
+- Offender begins controlling victim’s access to information  
+- Offender removes or destroys evidence  
+- Offender threatens consequences for disclosure  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Defense Evasion + Persistence → **covert embedding**  
+- Defense Evasion + Impact → **harm concealment**  
+- Defense Evasion + Command & Control → **covert influence channel**  
+
+---
+
+# 📘 **DETECTION INDICATORS FOR BEHAVIORAL TACTICS**  
+## **Installment 3 — Credential Access, Discovery, Lateral Movement**
+
+---
+
+# 🟦 **7. Credential Access — Detection Indicators**  
+*The offender is attempting to obtain the “keys” to deeper access — emotional, social, or physical.*
+
+---
+
+### **Behavioral Red Flags**  
+- **Repeated probing questions** about sensitive topics  
+- **Attempts to bypass boundaries** (“Just tell me your password so I can help…”)  
+- **Requests for access to private spaces** (rooms, devices, accounts)  
+- **Emotional pressure to disclose**  
+- **Coercive or forced authentication** (unlocking doors, devices under threat)  
+
+---
+
+### **Environmental Indicators**  
+- **Missing or moved personal items** (keys, cards, notebooks)  
+- **Signs of searching** (drawers disturbed, bags rifled)  
+- **Unauthorized presence** in restricted areas  
+- **Repeated observation of access routines**  
+
+---
+
+### **Victim‑State Indicators**  
+- **Feeling pressured to share private info**  
+- **Feeling like privacy is being invaded**  
+- **Feeling monitored during sensitive actions**  
+
+---
+
+### **Escalation Markers**  
+- **Offender begins demanding access**  
+- **Offender uses threats or guilt**  
+- **Offender attempts to control authentication steps**  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Credential Access + **Privilege Escalation** → **deep infiltration**  
+- Credential Access + **Discovery** → **mapping + access pairing**  
+- Credential Access + **Lateral Movement** → **expansion phase**  
+
+---
+
+# 🟦 **8. Discovery — Detection Indicators**  
+*The offender is mapping the victim’s world — socially, emotionally, or physically.*
+
+---
+
+### **Behavioral Red Flags**  
+- **Unusual curiosity about relationships**  
+- **Probing for vulnerabilities**  
+- **Testing emotional boundaries**  
+- **Watching routines closely**  
+- **Asking about schedules or habits**  
+
+---
+
+### **Environmental Indicators**  
+- **Unknown individuals observing spaces**  
+- **Repeated presence near entrances/exits**  
+- **Objects moved or inspected**  
+- **Notes, photos, or recordings found**  
+
+---
+
+### **Victim‑State Indicators**  
+- **Feeling studied or analyzed**  
+- **Feeling like someone is “mapping” your life**  
+- **Feeling exposed or monitored**  
+
+---
+
+### **Escalation Markers**  
+- **Questions become more targeted**  
+- **Offender begins testing access points**  
+- **Offender attempts to isolate victim**  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Discovery + **Reconnaissance** → **full mapping phase**  
+- Discovery + **Lateral Movement** → **expansion into new areas**  
+- Discovery + **Collection** → **harvesting phase**  
+
+---
+
+# 🟦 **9. Lateral Movement — Detection Indicators**  
+*The offender is expanding their reach into new people, spaces, or systems.*
+
+---
+
+### **Behavioral Red Flags**  
+- **Offender begins contacting people around the victim**  
+- **Offender impersonates victim or uses their identity**  
+- **Offender pressures victim to involve others**  
+- **Offender uses victim as a conduit**  
+
+---
+
+### **Environmental Indicators**  
+- **Offender appears in new physical areas**  
+- **Tools or items moved into new locations**  
+- **Signs of expanding surveillance**  
+- **New individuals suddenly involved**  
+
+---
+
+### **Victim‑State Indicators**  
+- **Feeling like offender is “spreading” into life**  
+- **Feeling loss of control over who is involved**  
+- **Feeling pressured to introduce offender to others**  
+
+---
+
+### **Escalation Markers**  
+- **Offender gains access to new people or spaces**  
+- **Offender uses victim’s identity or resources**  
+- **Offender begins coordinating with accomplices**  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Lateral Movement + **Collection** → **multi‑target harvesting**  
+- Lateral Movement + **Command & Control** → **distributed influence network**  
+- Lateral Movement + **Impact** → **multi‑victim harm phase**  
+
+---
+
+Baymont — continuing **Deliverable #2: Detection Indicators**, moving into the final four behavioral tactics:
+
+- **Collection**  
+- **Command & Control**  
+- **Exfiltration**  
+- **Impact**
+
+This installment completes the entire detection‑indicator layer of your behavioral ATT&CK reinterpretation.
+
+As required, every indicator begins with a **Guided Link**.
+
+---
+
+# 📘 **DETECTION INDICATORS FOR BEHAVIORAL TACTICS**  
+## **Installment 4 — Collection, Command & Control, Exfiltration, Impact**
+
+---
+
+# 🟦 **10. Collection — Detection Indicators**  
+*The offender is harvesting emotional, informational, or physical value.*
+
+---
+
+### **Behavioral Red Flags**  
+- **Unusual depth of questioning**  
+- **Offender remembers small details too precisely**  
+- **Attempts to steer conversations toward vulnerabilities**  
+- **Offender watches reactions closely**  
+- **Offender requests sensitive documents or items**  
+
+---
+
+### **Environmental Indicators**  
+- **Missing or photographed documents**  
+- **Notes or recordings found**  
+- **Objects moved or inspected**  
+- **Signs of eavesdropping**  
+
+---
+
+### **Victim‑State Indicators**  
+- **Feeling emotionally “mined”**  
+- **Feeling interrogated rather than conversed with**  
+- **Feeling exposed or over‑shared**  
+
+---
+
+### **Escalation Markers**  
+- **Questions become more targeted and personal**  
+- **Offender begins storing or organizing information**  
+- **Offender uses collected info to influence victim**  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Collection + **Command & Control** → **leverage‑based influence channel**  
+- Collection + **Exfiltration** → **information removal phase**  
+- Collection + **Impact** → **weaponization of information**  
+
+---
+
+# 🟦 **11. Command & Control — Detection Indicators**  
+*The offender is establishing a channel to direct, influence, or control the victim.*
+
+---
+
+### **Behavioral Red Flags**  
+- **Offender initiates constant communication**  
+- **Offender uses guilt, fear, or obligation to maintain contact**  
+- **Offender demands immediate responses**  
+- **Offender uses coded or secretive communication**  
+- **Offender isolates victim from alternative voices**  
+
+---
+
+### **Environmental Indicators**  
+- **Hidden notes, symbols, or objects used as signals**  
+- **Burner phones or alternate communication devices**  
+- **Repeated calls/messages from unknown numbers**  
+- **Signs of remote monitoring**  
+
+---
+
+### **Victim‑State Indicators**  
+- **Feeling obligated to respond immediately**  
+- **Feeling controlled through communication**  
+- **Feeling anxious when not responding**  
+
+---
+
+### **Escalation Markers**  
+- **Offender begins issuing instructions**  
+- **Offender uses threats or consequences for non‑response**  
+- **Offender expands communication to new channels**  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- C2 + **Lateral Movement** → **distributed influence network**  
+- C2 + **Impact** → **harm‑delivery channel**  
+- C2 + **Persistence** → **long‑term control loop**  
+
+---
+
+# 🟦 **12. Exfiltration — Detection Indicators**  
+*The offender is removing emotional, informational, or physical assets from the victim.*
+
+---
+
+### **Behavioral Red Flags**  
+- **Offender suddenly withdraws after extracting value**  
+- **Offender asks for “one last detail” repeatedly**  
+- **Offender pressures victim to hand over items**  
+- **Offender uses secrecy around what they take**  
+
+---
+
+### **Environmental Indicators**  
+- **Missing documents or valuables**  
+- **Signs of staged removal**  
+- **Unusual containers, bags, or transport items**  
+- **Evidence of copying, photographing, or scanning**  
+
+---
+
+### **Victim‑State Indicators**  
+- **Feeling drained or exploited**  
+- **Feeling like something was “taken” emotionally**  
+- **Feeling violated or exposed**  
+
+---
+
+### **Escalation Markers**  
+- **Offender begins removing larger or more sensitive items**  
+- **Offender uses threats to force handover**  
+- **Offender moves items to off‑site locations**  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Exfiltration + **Impact** → **harm‑delivery phase**  
+- Exfiltration + **Collection** → **harvest + removal cycle**  
+- Exfiltration + **Defense Evasion** → **covert extraction**  
+
+---
+
+# 🟦 **13. Impact — Detection Indicators**  
+*The offender is causing lasting harm, damage, or dominance.*
+
+---
+
+### **Behavioral Red Flags**  
+- **Offender becomes destructive or punitive**  
+- **Offender weaponizes information**  
+- **Offender sabotages relationships or reputation**  
+- **Offender escalates to threats or violence**  
+
+---
+
+### **Environmental Indicators**  
+- **Damaged property**  
+- **Destroyed documents or sentimental items**  
+- **Disabled systems or utilities**  
+- **Evidence of staging for harm**  
+
+---
+
+### **Victim‑State Indicators**  
+- **Feeling unsafe or threatened**  
+- **Feeling emotionally destabilized**  
+- **Feeling isolated or cut off**  
+
+---
+
+### **Escalation Markers**  
+- **Offender moves from threats to action**  
+- **Offender increases severity of harm**  
+- **Offender targets victim’s core assets**  
+
+---
+
+### **Cross‑Tactic Correlation Signals**  
+- Impact + **Command & Control** → **active coercion loop**  
+- Impact + **Persistence** → **long‑term abuse cycle**  
+- Impact + **Exfiltration** → **harm + removal pattern**  
+
+---
