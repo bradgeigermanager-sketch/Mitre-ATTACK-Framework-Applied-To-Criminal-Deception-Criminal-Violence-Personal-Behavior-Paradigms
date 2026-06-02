@@ -1,0 +1,137 @@
+**Escalation Decision‑Tree**
+-Built as a clear, operational flow that protective‑intelligence teams can follow under pressure.
+
+This is designed to be:
+
+- Fast  
+- Binary (yes/no)  
+- Actionable  
+- Defensible  
+- Easy to train and deploy  
+
+---
+
+# 📘 **INSTALLMENT 4 — ESCALATION DECISION‑TREE**  
+*A structured, step‑by‑step escalation flow for threats or harm.*
+
+---
+
+# 🌲 **ESCALATION DECISION‑TREE (Behavioral Threat Documentation)**
+
+---
+
+# 🟦 **1. Did a threat occur?**  
+**YES →** Go to **2**  
+**NO →** Go to **1A**
+
+### **1A. Was there concerning behavior without a threat?**  
+- **YES →** Document as *pre‑incident behavior* and monitor.  
+- **NO →** No escalation required; log only if policy mandates.
+
+---
+
+# 🟦 **2. Was the threat direct or implied?**  
+**Direct →** Go to **3**  
+**Implied →** Go to **3A**
+
+### **3A. Does the implied threat reference harm, retaliation, or consequences?**  
+- **YES →** Treat as a threat → Go to **3**  
+- **NO →** Document and monitor; escalate if repeated.
+
+---
+
+# 🟦 **3. Was physical action involved?**  
+Examples: stepping forward rapidly, blocking exits, grabbing objects.
+
+**YES →** Go to **4**  
+**NO →** Go to **3B**
+
+### **3B. Was the threat severe or specific?**  
+- **YES →** Escalate to security immediately → Go to **7**  
+- **NO →** Document fully → Go to **6**
+
+---
+
+# 🟦 **4. Was physical contact made?**  
+**YES →** Go to **5**  
+**NO →** Go to **4A**
+
+### **4A. Was the victim’s movement restricted?**  
+- **YES →** Treat as high‑risk → Go to **7**  
+- **NO →** Document and escalate to supervisor → Go to **6**
+
+---
+
+# 🟦 **5. Was there injury or property damage?**  
+**YES →** Immediate escalation → Go to **7**  
+**NO →** Go to **5A**
+
+### **5A. Was the contact intentional or aggressive?**  
+- **YES →** Escalate to security → Go to **7**  
+- **NO →** Document and monitor → Go to **6**
+
+---
+
+# 🟦 **6. Does the offender have a pattern of prior incidents?**  
+**YES →** Escalate to security or HR → Go to **7**  
+**NO →** Document thoroughly and notify supervisor.
+
+---
+
+# 🟦 **7. Is there evidence of weapon involvement?**  
+**YES →** Immediate crisis response → Go to **8**  
+**NO →** Go to **7A**
+
+### **7A. Did the offender reference weapons verbally?**  
+- **YES →** Treat as high‑risk → Go to **8**  
+- **NO →** Continue with standard escalation → Go to **9**
+
+---
+
+# 🟦 **8. Activate crisis‑response protocol**  
+This includes:
+
+- Security dispatch  
+- Emergency services if needed  
+- Evacuation or safe‑room placement  
+- Immediate protective measures  
+
+After safety is secured → Go to **9**
+
+---
+
+# 🟦 **9. Complete full documentation**  
+Include:
+
+- Verbatim statements  
+- Physical actions  
+- Environmental context  
+- Evidence  
+- Victim impact  
+- Witness information  
+- Immediate actions taken  
+
+Then → Go to **10**
+
+---
+
+# 🟦 **10. Determine follow‑up requirements**  
+- **Security review**  
+- **HR involvement**  
+- **Protective‑intelligence analysis**  
+- **Victim support resources**  
+- **Monitoring plan**  
+
+If risk remains elevated → Go to **11**
+
+---
+
+# 🟦 **11. Initiate ongoing monitoring**  
+- Track repeated behaviors  
+- Update threat logs  
+- Maintain communication with victim  
+- Adjust protective measures  
+
+If escalation occurs again → Return to **1** and restart the tree.
+
+---
