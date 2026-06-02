@@ -1,0 +1,869 @@
+Mitre ATT&CK Criminal Behavior Reinterpretation Defensive Playbooks
+
+These playbooks are designed for:
+
+- Threat‑response teams  
+- Protective intelligence units  
+- Security officers  
+- Behavioral analysts  
+- Crisis‑intervention personnel  
+- Organizational safety programs  
+
+Each tactic gets a **full defensive playbook** with:
+
+- **Prevention Strategies**  
+- **Disruption Strategies**  
+- **Intervention Strategies**  
+- **Recovery Strategies**  
+- **Organizational Defenses**  
+- **Environmental Defenses**  
+- **Decision Triggers**  
+- **Escalation Pathways**  
+   
+---
+
+# 📘 **DEFENSIVE PLAYBOOKS FOR BEHAVIORAL TACTICS**  
+## **Installment 1 — Reconnaissance, Resource Development, Initial Access**
+
+---
+
+# 🟦 **1. Reconnaissance — Defensive Playbook**  
+*Goal: Detect and disrupt early-stage offender information gathering.*
+
+---
+
+### **Prevention Strategies**  
+- **Establish privacy boundaries** — Teach personnel to limit disclosure of personal details.  
+- **Normalize verification behaviors** — Encourage checking identities before sharing info.  
+- **Reduce public exposure** — Limit unnecessary online footprint.  
+- **Train staff on probing-question recognition** — Identify when curiosity becomes targeted.  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt suspicious questioning** — Redirect or shut down probing conversations.  
+- **Increase unpredictability of routines** — Reduce value of surveillance.  
+- **Deploy presence-based deterrence** — Add observers, escorts, or cameras.  
+
+---
+
+### **Intervention Strategies**  
+- **Document suspicious encounters** — Capture details for pattern detection.  
+- **Engage protective personnel** — Bring in security when patterns emerge.  
+- **Conduct counter‑recon sweeps** — Look for repeated observers or vehicles.  
+
+---
+
+### **Recovery Strategies**  
+- **Rebuild privacy posture** — Remove exposed information.  
+- **Notify affected individuals** — Alert those whose info was targeted.  
+
+---
+
+### **Organizational Defenses**  
+- **Implement need‑to‑know culture**  
+- **Train staff on social engineering reconnaissance**  
+- **Centralize suspicious-activity reporting**  
+
+---
+
+### **Environmental Defenses**  
+- **Improve sightlines and lighting**  
+- **Use access‑controlled perimeters**  
+- **Deploy surveillance coverage**  
+
+---
+
+### **Decision Triggers**  
+- **Repeated presence of unknown individuals**  
+- **Patterned questioning across multiple staff**  
+- **Evidence of mapping or note‑taking**  
+
+---
+
+### **Escalation Pathways**  
+- Recon → **Initial Access**  
+- Recon → **Discovery**  
+- Recon → **Resource Development**  
+
+---
+
+# 🟦 **2. Resource Development — Defensive Playbook**  
+*Goal: Detect and disrupt offender preparation and staging.*
+
+---
+
+### **Prevention Strategies**  
+- **Verify identities before granting trust**  
+- **Monitor for fake or duplicate accounts**  
+- **Train staff to recognize staged props**  
+
+---
+
+### **Disruption Strategies**  
+- **Invalidate false identities**  
+- **Remove planted objects**  
+- **Increase scrutiny of suspicious acquisitions**  
+
+---
+
+### **Intervention Strategies**  
+- **Conduct background verification**  
+- **Engage protective intelligence**  
+- **Audit access to tools and spaces**  
+
+---
+
+### **Recovery Strategies**  
+- **Revoke compromised access**  
+- **Remove offender‑placed infrastructure**  
+- **Rebuild trust pathways**  
+
+---
+
+### **Organizational Defenses**  
+- **Strict identity management**  
+- **Tool and equipment tracking**  
+- **Insider threat awareness**  
+
+---
+
+### **Environmental Defenses**  
+- **Secure storage areas**  
+- **Monitor for unauthorized staging**  
+- **Control access to props and uniforms**  
+
+---
+
+### **Decision Triggers**  
+- **Fake identity detected**  
+- **Suspicious acquisition of tools**  
+- **Evidence of staging behavior**  
+
+---
+
+### **Escalation Pathways**  
+- Resource Development → **Initial Access**  
+- Resource Development → **Defense Evasion**  
+- Resource Development → **Impact**  
+
+---
+
+# 🟦 **3. Initial Access — Defensive Playbook**  
+*Goal: Prevent or disrupt the offender’s first foothold.*
+
+---
+
+### **Prevention Strategies**  
+- **Train staff to recognize false emergencies**  
+- **Strengthen access control protocols**  
+- **Teach refusal and boundary‑setting skills**  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt coercive questioning**  
+- **Deny entry to unauthorized individuals**  
+- **Deploy staff presence to disrupt manipulation**  
+
+---
+
+### **Intervention Strategies**  
+- **Activate security response**  
+- **Document suspicious entry attempts**  
+- **Escort unknown individuals to controlled areas**  
+
+---
+
+### **Recovery Strategies**  
+- **Re-secure compromised spaces**  
+- **Notify affected personnel**  
+- **Rebuild access integrity**  
+
+---
+
+### **Organizational Defenses**  
+- **Visitor management systems**  
+- **Staff training on social engineering**  
+- **Incident reporting pipelines**  
+
+---
+
+### **Environmental Defenses**  
+- **Physical barriers and checkpoints**  
+- **Surveillance coverage of entry points**  
+- **Alarmed or monitored doors**  
+
+---
+
+### **Decision Triggers**  
+- **Unauthorized entry attempt**  
+- **Suspicious “accidental” encounter**  
+- **Coercive questioning detected**  
+
+---
+
+### **Escalation Pathways**  
+- Initial Access → **Persistence**  
+- Initial Access → **Privilege Escalation**  
+- Initial Access → **Lateral Movement**  
+
+---
+
+Baymont — continuing **Deliverable #3: Defensive Playbooks**, moving into the *core operational middle* of the behavioral ATT&CK matrix.
+
+This is **Installment 2**, covering:
+
+- **Persistence**  
+- **Privilege Escalation**  
+- **Defense Evasion**
+
+Each playbook includes:
+
+- **Prevention Strategies**  
+- **Disruption Strategies**  
+- **Intervention Strategies**  
+- **Recovery Strategies**  
+- **Organizational Defenses**  
+- **Environmental Defenses**  
+- **Decision Triggers**  
+- **Escalation Pathways**
+
+Every list item begins with a **Guided Link**, as required.
+
+---
+
+# 📘 **DEFENSIVE PLAYBOOKS FOR BEHAVIORAL TACTICS**  
+## **Installment 2 — Persistence, Privilege Escalation, Defense Evasion**
+
+---
+
+# 🟦 **4. Persistence — Defensive Playbook**  
+*Goal: Prevent the offender from maintaining long‑term access or influence.*
+
+---
+
+### **Prevention Strategies**  
+- **Establish firm boundaries** — Teach personnel to enforce limits on time, access, and communication.  
+- **Rotate routines** — Reduce predictability that offenders rely on.  
+- **Limit access to personal spaces** — Strengthen physical and social access control.  
+- **Educate on “forced familiarity” tactics** — Recognize when someone is trying to embed themselves.  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt recurring contact patterns** — Break the offender’s foothold.  
+- **Reinforce access barriers** — Change locks, codes, or communication channels.  
+- **Introduce third‑party presence** — Add witnesses to disrupt covert embedding.  
+
+---
+
+### **Intervention Strategies**  
+- **Document repeated unwanted presence** — Build evidence for escalation.  
+- **Engage protective personnel** — Security or supervisors intervene.  
+- **Confront boundary violations formally** — Issue warnings or corrective actions.  
+
+---
+
+### **Recovery Strategies**  
+- **Rebuild autonomy and control** — Support victim in regaining independence.  
+- **Re-secure compromised routines** — Adjust schedules, access, and communication.  
+- **Remove offender’s artifacts** — Clear planted items or monitoring tools.  
+
+---
+
+### **Organizational Defenses**  
+- **Boundary enforcement policies**  
+- **Monitoring for repeated contact patterns**  
+- **Escalation pathways for stalking behaviors**  
+
+---
+
+### **Environmental Defenses**  
+- **Controlled access zones**  
+- **Surveillance of habitual offender locations**  
+- **Alarmed or monitored entry points**  
+
+---
+
+### **Decision Triggers**  
+- **Offender appears repeatedly in victim’s routine**  
+- **Offender inserts themselves into private spaces**  
+- **Offender reacts negatively to boundary enforcement**  
+
+---
+
+### **Escalation Pathways**  
+- Persistence → **Privilege Escalation**  
+- Persistence → **Command & Control**  
+- Persistence → **Impact**  
+
+---
+
+# 🟦 **5. Privilege Escalation — Defensive Playbook**  
+*Goal: Prevent the offender from gaining higher authority, influence, or control.*
+
+---
+
+### **Prevention Strategies**  
+- **Enforce strict role boundaries** — Prevent offenders from assuming authority.  
+- **Educate on manipulation escalation** — Recognize when influence becomes control.  
+- **Limit access to sensitive areas** — Both physical and informational.  
+- **Train on coercion recognition** — Identify guilt, pressure, or intimidation.  
+
+---
+
+### **Disruption Strategies**  
+- **Revoke unauthorized access immediately**  
+- **Interrupt attempts to redefine roles**  
+- **Introduce supervisory oversight**  
+
+---
+
+### **Intervention Strategies**  
+- **Conduct formal access reviews**  
+- **Engage HR or security for authority misuse**  
+- **Document coercive or manipulative escalation**  
+
+---
+
+### **Recovery Strategies**  
+- **Restore proper authority structures**  
+- **Support victim in reasserting autonomy**  
+- **Rebuild trust and safety**  
+
+---
+
+### **Organizational Defenses**  
+- **Clear chain‑of‑command documentation**  
+- **Authority misuse reporting channels**  
+- **Zero‑tolerance coercion policies**  
+
+---
+
+### **Environmental Defenses**  
+- **Restricted access zones**  
+- **Badge or credential audits**  
+- **Monitored high‑risk areas**  
+
+---
+
+### **Decision Triggers**  
+- **Offender demands elevated access**  
+- **Offender assumes authority without permission**  
+- **Offender pressures victim to comply**  
+
+---
+
+### **Escalation Pathways**  
+- Privilege Escalation → **Lateral Movement**  
+- Privilege Escalation → **Command & Control**  
+- Privilege Escalation → **Impact**  
+
+---
+
+# 🟦 **6. Defense Evasion — Defensive Playbook**  
+*Goal: Prevent the offender from hiding their actions, avoiding accountability, or concealing harm.*
+
+---
+
+### **Prevention Strategies**  
+- **Train on gaslighting recognition**  
+- **Promote documentation culture**  
+- **Encourage transparency in communication**  
+- **Strengthen physical evidence protection**  
+
+---
+
+### **Disruption Strategies**  
+- **Confront inconsistencies with documentation**  
+- **Reinstate disabled safety systems**  
+- **Increase monitoring of suspicious individuals**  
+
+---
+
+### **Intervention Strategies**  
+- **Escalate when evidence is destroyed**  
+- **Engage security when tampering is detected**  
+- **Conduct forensic review of incidents**  
+
+---
+
+### **Recovery Strategies**  
+- **Rebuild accurate event timelines**  
+- **Restore disabled systems**  
+- **Support victim in reestablishing reality**  
+
+---
+
+### **Organizational Defenses**  
+- **Tamper‑evident systems**  
+- **Incident logging requirements**  
+- **Security audits for high‑risk areas**  
+
+---
+
+### **Environmental Defenses**  
+- **Cameras with audit logs**  
+- **Locked evidence storage**  
+- **Access‑controlled utilities**  
+
+---
+
+### **Decision Triggers**  
+- **Evidence of tampering**  
+- **Offender denies documented events**  
+- **Safety systems disabled**  
+
+---
+
+### **Escalation Pathways**  
+- Defense Evasion → **Command & Control**  
+- Defense Evasion → **Exfiltration**  
+- Defense Evasion → **Impact**  
+
+---
+
+# 📘 **DEFENSIVE PLAYBOOKS FOR BEHAVIORAL TACTICS**  
+## **Installment 3 — Credential Access, Discovery, Lateral Movement**
+
+---
+
+# 🟦 **7. Credential Access — Defensive Playbook**  
+*Goal: Prevent the offender from obtaining emotional, social, or physical “keys” to deeper access.*
+
+---
+
+### **Prevention Strategies**  
+- **Enforce strict privacy boundaries** — Limit disclosure of sensitive info.  
+- **Teach secure authentication habits** — Don’t share codes, keys, or emotional vulnerabilities.  
+- **Train on coercion recognition** — Identify pressure tactics early.  
+- **Protect physical access items** — Keys, badges, devices.  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt probing questions** — Redirect or shut down attempts to extract info.  
+- **Reinforce access controls** — Change locks, codes, or passwords.  
+- **Introduce third‑party verification** — Add oversight to sensitive interactions.  
+
+---
+
+### **Intervention Strategies**  
+- **Document attempts to obtain access** — Build evidence for escalation.  
+- **Engage security when forced authentication occurs** — Immediate intervention.  
+- **Audit compromised access points** — Identify what was exposed.  
+
+---
+
+### **Recovery Strategies**  
+- **Reset all compromised credentials**  
+- **Re-secure physical spaces**  
+- **Support victim in reestablishing boundaries**  
+
+---
+
+### **Organizational Defenses**  
+- **Credential management policies**  
+- **Access audits and monitoring**  
+- **Training on emotional/social “passwords”**  
+
+---
+
+### **Environmental Defenses**  
+- **Secure storage for keys and devices**  
+- **Cameras on access points**  
+- **Tamper‑evident locks**  
+
+---
+
+### **Decision Triggers**  
+- **Offender pressures victim for access**  
+- **Offender observes authentication routines**  
+- **Evidence of searching or rummaging**  
+
+---
+
+### **Escalation Pathways**  
+- Credential Access → **Privilege Escalation**  
+- Credential Access → **Lateral Movement**  
+- Credential Access → **Impact**  
+
+---
+
+# 🟦 **8. Discovery — Defensive Playbook**  
+*Goal: Prevent the offender from mapping the victim’s world, relationships, and vulnerabilities.*
+
+---
+
+### **Prevention Strategies**  
+- **Limit unnecessary disclosure** — Reduce exploitable information.  
+- **Teach awareness of probing behaviors**  
+- **Reduce predictable routines**  
+- **Strengthen digital privacy posture**  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt targeted questioning**  
+- **Increase environmental unpredictability**  
+- **Deploy protective presence**  
+
+---
+
+### **Intervention Strategies**  
+- **Document suspicious mapping behaviors**  
+- **Conduct counter‑surveillance sweeps**  
+- **Engage protective intelligence teams**  
+
+---
+
+### **Recovery Strategies**  
+- **Re-secure exposed information**  
+- **Notify individuals whose info was targeted**  
+- **Rebuild privacy posture**  
+
+---
+
+### **Organizational Defenses**  
+- **Training on reconnaissance indicators**  
+- **Centralized suspicious-activity reporting**  
+- **Need‑to‑know information culture**  
+
+---
+
+### **Environmental Defenses**  
+- **Improve sightlines and lighting**  
+- **Secure sensitive areas**  
+- **Monitor for repeated observers**  
+
+---
+
+### **Decision Triggers**  
+- **Repeated observation of victim or environment**  
+- **Targeted questioning detected**  
+- **Evidence of mapping or note‑taking**  
+
+---
+
+### **Escalation Pathways**  
+- Discovery → **Lateral Movement**  
+- Discovery → **Collection**  
+- Discovery → **Initial Access**  
+
+---
+
+# 🟦 **9. Lateral Movement — Defensive Playbook**  
+*Goal: Prevent the offender from expanding into new people, spaces, or systems.*
+
+---
+
+### **Prevention Strategies**  
+- **Limit cross‑access between individuals**  
+- **Educate on identity misuse**  
+- **Strengthen compartmentalization** — Social, emotional, and physical.  
+- **Train on “network expansion” red flags**  
+
+---
+
+### **Disruption Strategies**  
+- **Cut off offender’s access to new contacts**  
+- **Block impersonation attempts**  
+- **Reinforce boundaries with third parties**  
+
+---
+
+### **Intervention Strategies**  
+- **Notify individuals being targeted**  
+- **Document identity misuse**  
+- **Engage protective intelligence for network mapping**  
+
+---
+
+### **Recovery Strategies**  
+- **Rebuild trust with affected individuals**  
+- **Re-secure compromised relationships or spaces**  
+- **Remove offender’s influence from social networks**  
+
+---
+
+### **Organizational Defenses**  
+- **Identity verification protocols**  
+- **Cross‑department communication controls**  
+- **Incident reporting for impersonation**  
+
+---
+
+### **Environmental Defenses**  
+- **Access‑controlled zones**  
+- **Monitoring of shared spaces**  
+- **Physical separation of sensitive areas**  
+
+---
+
+### **Decision Triggers**  
+- **Offender contacts new people using victim’s identity**  
+- **Offender appears in new physical areas**  
+- **Offender pressures victim to introduce them**  
+
+---
+
+### **Escalation Pathways**  
+- Lateral Movement → **Collection**  
+- Lateral Movement → **Command & Control**  
+- Lateral Movement → **Impact**  
+
+---
+
+# 📘 **DEFENSIVE PLAYBOOKS FOR BEHAVIORAL TACTICS**  
+## **Installment 4 — Collection, Command & Control, Exfiltration, Impact**
+
+---
+
+# 🟦 **10. Collection — Defensive Playbook**  
+*Goal: Prevent the offender from harvesting emotional, informational, or physical value.*
+
+---
+
+### **Prevention Strategies**  
+- **Limit disclosure of sensitive information** — Train individuals to avoid oversharing.  
+- **Teach recognition of targeted questioning** — Identify when curiosity becomes extraction.  
+- **Strengthen document and item security** — Lock up sensitive materials.  
+- **Promote emotional boundary awareness** — Prevent emotional exploitation.  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt conversations that turn extractive**  
+- **Remove access to sensitive items**  
+- **Introduce third‑party presence during questioning**  
+
+---
+
+### **Intervention Strategies**  
+- **Document attempts to gather sensitive info**  
+- **Conduct information‑security reviews**  
+- **Engage protective intelligence teams**  
+
+---
+
+### **Recovery Strategies**  
+- **Re-secure compromised information**  
+- **Notify individuals whose info was taken**  
+- **Rebuild emotional and informational boundaries**  
+
+---
+
+### **Organizational Defenses**  
+- **Information‑handling policies**  
+- **Training on emotional intelligence exploitation**  
+- **Centralized reporting for suspicious questioning**  
+
+---
+
+### **Environmental Defenses**  
+- **Secure storage for documents**  
+- **Cameras in sensitive areas**  
+- **Restricted access to private spaces**  
+
+---
+
+### **Decision Triggers**  
+- **Offender repeatedly asks targeted questions**  
+- **Sensitive items go missing or are moved**  
+- **Evidence of note‑taking or recording**  
+
+---
+
+### **Escalation Pathways**  
+- Collection → **Command & Control**  
+- Collection → **Exfiltration**  
+- Collection → **Impact**  
+
+---
+
+# 🟦 **11. Command & Control — Defensive Playbook**  
+*Goal: Prevent the offender from establishing a channel of influence, direction, or control.*
+
+---
+
+### **Prevention Strategies**  
+- **Teach communication boundary skills**  
+- **Limit offender access to communication channels**  
+- **Promote healthy communication norms**  
+- **Train on coercive communication recognition**  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt coercive communication patterns**  
+- **Block or restrict offender communication**  
+- **Introduce supervised communication channels**  
+
+---
+
+### **Intervention Strategies**  
+- **Document coercive messages**  
+- **Engage security or HR for communication abuse**  
+- **Provide victim with alternative communication support**  
+
+---
+
+### **Recovery Strategies**  
+- **Rebuild communication autonomy**  
+- **Re-secure communication channels**  
+- **Support victim in reestablishing independence**  
+
+---
+
+### **Organizational Defenses**  
+- **Policies on harassment and coercion**  
+- **Monitoring of high‑risk communication channels**  
+- **Incident reporting for communication abuse**  
+
+---
+
+### **Environmental Defenses**  
+- **Cameras in communication‑sensitive areas**  
+- **Secure communication rooms**  
+- **Restricted access to communication equipment**  
+
+---
+
+### **Decision Triggers**  
+- **Offender demands immediate responses**  
+- **Offender uses threats or guilt**  
+- **Offender expands communication channels**  
+
+---
+
+### **Escalation Pathways**  
+- Command & Control → **Lateral Movement**  
+- Command & Control → **Exfiltration**  
+- Command & Control → **Impact**  
+
+---
+
+# 🟦 **12. Exfiltration — Defensive Playbook**  
+*Goal: Prevent the offender from removing emotional, informational, or physical assets.*
+
+---
+
+### **Prevention Strategies**  
+- **Secure sensitive items and documents**  
+- **Teach awareness of extraction behaviors**  
+- **Limit offender access to valuables**  
+- **Promote emotional resilience**  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt attempts to remove items**  
+- **Block access to storage or exit points**  
+- **Increase supervision during high‑risk interactions**  
+
+---
+
+### **Intervention Strategies**  
+- **Document missing items or information**  
+- **Engage security for theft or removal attempts**  
+- **Conduct inventory and damage assessment**  
+
+---
+
+### **Recovery Strategies**  
+- **Recover stolen items if possible**  
+- **Re-secure compromised areas**  
+- **Support victim in emotional recovery**  
+
+---
+
+### **Organizational Defenses**  
+- **Inventory tracking systems**  
+- **Policies on removal of sensitive materials**  
+- **Incident reporting for theft or extraction**  
+
+---
+
+### **Environmental Defenses**  
+- **Cameras on exits and storage areas**  
+- **Locked storage for valuables**  
+- **Tamper‑evident containers**  
+
+---
+
+### **Decision Triggers**  
+- **Items go missing or are moved**  
+- **Offender pressures victim to hand over items**  
+- **Evidence of copying or photographing**  
+
+---
+
+### **Escalation Pathways**  
+- Exfiltration → **Impact**  
+- Exfiltration → **Defense Evasion**  
+- Exfiltration → **Command & Control**  
+
+---
+
+# 🟦 **13. Impact — Defensive Playbook**  
+*Goal: Prevent or mitigate the offender’s attempts to cause lasting harm, damage, or dominance.*
+
+---
+
+### **Prevention Strategies**  
+- **Strengthen emotional resilience**  
+- **Teach early recognition of destructive behavior**  
+- **Secure critical assets** — physical, digital, emotional.  
+- **Promote strong support networks**  
+
+---
+
+### **Disruption Strategies**  
+- **Interrupt destructive actions immediately**  
+- **Remove offender access to critical assets**  
+- **Deploy protective personnel**  
+
+---
+
+### **Intervention Strategies**  
+- **Document harm or sabotage**  
+- **Engage crisis‑response teams**  
+- **Provide victim with emergency support**  
+
+---
+
+### **Recovery Strategies**  
+- **Repair damaged property or relationships**  
+- **Rebuild emotional stability**  
+- **Re-secure compromised systems**  
+
+---
+
+### **Organizational Defenses**  
+- **Crisis‑management protocols**  
+- **Zero‑tolerance harm policies**  
+- **Incident review and lessons learned**  
+
+---
+
+### **Environmental Defenses**  
+- **Reinforced physical security**  
+- **Monitored high‑risk areas**  
+- **Secure storage for critical items**  
+
+---
+
+### **Decision Triggers**  
+- **Offender becomes destructive or punitive**  
+- **Evidence of sabotage**  
+- **Victim reports feeling unsafe**  
+
+---
+
+### **Escalation Pathways**  
+- Impact → **Crisis Response**  
+- Impact → **Law Enforcement Engagement**  
+- Impact → **Long‑Term Protective Measures**  
+
+---
