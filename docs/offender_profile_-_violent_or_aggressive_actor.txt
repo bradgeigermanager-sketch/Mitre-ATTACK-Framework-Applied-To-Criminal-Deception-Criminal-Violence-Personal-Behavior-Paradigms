@@ -1,0 +1,155 @@
+# 📘 **OFFENDER PROFILE #2 — THE VIOLENT / AGGRESSIVE ACTOR**  
+*A coercive, force‑driven offender who relies on intimidation, dominance, and physical disruption rather than deception.*
+
+This profile is written through a **victim‑centered, harm‑prevention lens**, consistent with safety guidelines. It does **not** glorify or justify violence — it analyzes patterns so protective‑intelligence teams can **detect, disrupt, and prevent harm**.
+
+---
+
+# 🟥 **1. Behavioral Signature**  
+The Violent/Aggressive Actor’s behavioral footprint is defined by:
+
+- **Rapid escalation from irritation to aggression**  
+- **Dominance displays** — posture, voice, proximity  
+- **Boundary violation as a control tactic**  
+- **Intimidation through unpredictability**  
+- **Use of fear to force compliance**  
+- **Physical presence as a weapon**  
+- **Low tolerance for perceived disrespect**  
+
+Where the Manipulator hides, the Violent Actor **broadcasts**.
+
+---
+
+# 🟥 **2. Psychological Drivers**  
+Core motivations include:
+
+- **Need for immediate dominance**  
+- **Low impulse control**  
+- **Perceived threats to ego**  
+- **Desire to instill fear**  
+- **Instrumental violence** — using force to achieve goals  
+- **Hypervigilance and misinterpretation of intent**  
+
+Their worldview is adversarial: **power = safety**.
+
+---
+
+# 🟥 **3. Modus Operandi Patterns**  
+Mapped to the behavioral ATT&CK tactics:
+
+### **Reconnaissance**  
+- **Physical surveillance**  
+- **Testing territorial reactions**  
+
+### **Resource Development**  
+- **Acquiring weapons or tools**  
+- **Securing staging areas**  
+
+### **Initial Access**  
+- **Forced entry**  
+- **Coercive questioning**  
+
+### **Persistence**  
+- **Repeated intimidation cycles**  
+- **Physical presence in victim’s space**  
+
+### **Privilege Escalation**  
+- **Taking control of physical spaces**  
+- **Imposing rules or restrictions**  
+
+### **Defense Evasion**  
+- **Destroying evidence**  
+- **Threatening witnesses**  
+
+### **Credential Access**  
+- **Forcing access to locked areas**  
+- **Demanding keys, codes, or devices**  
+
+### **Discovery**  
+- **Identifying escape routes or blind spots**  
+- **Assessing victim’s physical vulnerabilities**  
+
+### **Lateral Movement**  
+- **Expanding intimidation to others**  
+- **Using accomplices to apply pressure**  
+
+### **Collection**  
+- **Seizing valuables**  
+- **Extracting information under threat**  
+
+### **Command & Control**  
+- **Direct threats and commands**  
+- **Physical coercion**  
+
+### **Exfiltration**  
+- **Removing property or people**  
+- **Forced relocation or movement**  
+
+### **Impact**  
+- **Property destruction**  
+- **Physical harm or intimidation**  
+
+---
+
+# 🟥 **4. Escalation Pathways**  
+The Violent Actor escalates in **sharp, reactive jumps**:
+
+1. **Irritation → Threat**  
+2. **Threat → Intimidation**  
+3. **Intimidation → Physical Posturing**  
+4. **Posturing → Physical Contact**  
+5. **Contact → Violence**  
+6. **Violence → Sustained Harm**  
+
+Unlike the Manipulator, escalation is **fast, overt, and volatile**.
+
+---
+
+# 🟥 **5. Cross‑Tactic Behavioral Fingerprint**  
+This offender’s fingerprint includes:
+
+- **Initial Access + Impact** → *immediate harm potential*  
+- **Persistence + Command & Control** → *ongoing intimidation cycle*  
+- **Discovery + Privilege Escalation** → *environmental dominance*  
+- **Defense Evasion + Exfiltration** → *concealed removal of assets*  
+
+This pattern is distinct from the Manipulator’s covert, relational approach.
+
+---
+
+# 🟥 **6. Victimology Patterns**  
+Common target characteristics:
+
+- **Individuals physically isolated**  
+- **People with limited support networks**  
+- **Targets perceived as “easy to overpower”**  
+- **Individuals in predictable routines**  
+- **People with visible valuables**  
+
+Victims often experience **fear, hypervigilance, and loss of autonomy**.
+
+---
+
+# 🟥 **7. Risk Scoring Dimensions**  
+Risk increases when the offender shows:
+
+- **History of violent outbursts**  
+- **Weapon acquisition**  
+- **Escalating intimidation**  
+- **Boundary‑breaking behavior**  
+- **Fixation on a target**  
+
+A Violent Actor with **multiple active tactics** is a **high‑threat, time‑sensitive case**.
+
+---
+
+# 🟥 **8. Intervention Levers**  
+Most effective interventions:
+
+- **Immediate security engagement**  
+- **Physical separation and safe exit routes**  
+- **Witness presence to reduce escalation**  
+- **Documentation of threats or harm**  
+- **Rapid activation of crisis protocols**  
+
+Violent Actors lose power when **their ability to intimidate is interrupted**.
